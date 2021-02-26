@@ -1,0 +1,59 @@
+LOCUS       AY800122                 891 bp    DNA     linear   BCT 08-JUN-2006
+DEFINITION  Lactobacillus sakei strain LTH 2076 histidine decarboxylase (hdc)
+            gene, partial cds.
+ACCESSION   AY800122
+VERSION     AY800122.1
+KEYWORDS    .
+SOURCE      Latilactobacillus sakei
+  ORGANISM  Latilactobacillus sakei
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Latilactobacillus.
+REFERENCE   1  (bases 1 to 891)
+  AUTHORS   Coton,E. and Coton,M.
+  TITLE     Multiplex PCR for colony direct detection of Gram-positive
+            histamine- and tyramine-producing bacteria
+  JOURNAL   J. Microbiol. Methods 63 (3), 296-304 (2005)
+   PUBMED   15935495
+REFERENCE   2  (bases 1 to 891)
+  AUTHORS   Coton,E.P. and Coton,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2004) ADRIA Normandie, Bd. du 13 Juin 1944,
+            Villers-Bocage 14310, France
+FEATURES             Location/Qualifiers
+     source          1..891
+                     /organism="Latilactobacillus sakei"
+                     /mol_type="genomic DNA"
+                     /strain="LTH 2076"
+                     /db_xref="taxon:1599"
+     gene            <1..>891
+                     /gene="hdc"
+     CDS             <1..>891
+                     /gene="hdc"
+                     /note="pyruvoyl-dependent HDC"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="AAX19893.1"
+                     /translation="LGVDRISVSPYKKWSRGYLEPGNVGNGYVSGIKVDAGVVDKTDDM
+                     ILDGIVSYDRAETKNAYIGQINMTTASSFSGVGGTVLGYDILRNPEVDKAKPLFTEKQW
+                     DGSELPIYDAKPLQDTLVEYFGTKDDMRHYPAPGAFVCCANKGVTAERPKNDADMKPGQ
+                     GYGVWSAIAISFAKDPTKYSSMYVEDAGVWETPNEDELIEYLKGRRNAMAKSIAACGEN
+                     TAGENGGAVFTSSWIGFAHAMMKPGQVGNAITVAPYIAMPVDSIPGGSILTPDTDMDIM
+                     QNLTMPEWLDKMGYQS"
+ORIGIN
+        1 cttggggttg accgtatctc agtgagtcca tacaagaaat ggtctagagg gtatcttgaa
+       61 ccaggaaacg ttggtaatgg atatgtttca ggaattaaag tagatgctgg tgtcgttgat
+      121 aaaaccgatg atatgatcct tgatggtatt gtttcgtatg accgtgcgga aacaaagaat
+      181 gcctatattg gacaaatcaa catgactact gcatcaagtt tctctggtgt tggtggaact
+      241 gttcttggtt atgacatcct tcgtaaccct gaagttgaca aagctaagcc attatttact
+      301 gaaaaacaat gggacggtag tgaacttcca atttacgatg caaagccttt acaagatact
+      361 ttagttgaat actttggtac taaagacgat atgcgtcact atcctgctcc aggtgcattt
+      421 gtatgctgtg ccaacaaagg tgtaactgca gaacgtccaa agaacgatgc agatatgaag
+      481 cctggtcaag gatatggtgt ttggtcagca atcgcaattt catttgcaaa ggatccaact
+      541 aagtactcaa gtatgtacgt tgaagatgct ggtgtttggg agactcctaa cgaagatgaa
+      601 ttgattgaat atcttaaggg ccgtcgtaat gcaatggcta agtcaattgc agcctgtggc
+      661 gaaaacactg ccggcgaaaa tggtggtgcc gtattcacaa gctcatggat tggatttgca
+      721 catgcaatga tgaagccagg acaagttggt aatgcaatta ctgttgctcc ttatattgca
+      781 atgcctgttg attcaattcc aggtggctca attcttacac ctgatactga catggatatt
+      841 atgcagaatc ttactatgcc agaatggctt gacaagatgg gttaccaatc a
+//

@@ -1,0 +1,5 @@
+Filtering log for data/all_bacilli_histidine_decarboxylases/transporters/aa_sequences/neighbouring_transporters total sequences =11
+Filename: data/all_bacilli_histidine_decarboxylases/transporters/aa_sequences/neighbouring_transporters.gb, max_length: 200, max_similarity: 0.8
+
+CBK46767.1 has been removed by CBK46770.1 with score: 0.9935665460394049 (transporter found)
+1 sequences have been removed

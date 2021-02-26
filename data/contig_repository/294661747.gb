@@ -1,0 +1,52 @@
+LOCUS       AB553282                 441 bp    DNA     linear   BCT 14-APR-2010
+DEFINITION  Bacillus licheniformis gene for histidine decarboxylase, complete
+            cds.
+ACCESSION   AB553282
+VERSION     AB553282.1
+KEYWORDS    .
+SOURCE      Bacillus licheniformis
+  ORGANISM  Bacillus licheniformis
+            Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+REFERENCE   1
+  AUTHORS   Moon,J., Choi,H., Kim,S. and Han,N.
+  TITLE     Isolation and Characterization of Histamine-Producing Bacteria in
+            Fermented Fish Products in Korea
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 441)
+  AUTHORS   Moon,J., Choi,H., Kim,H. and Han,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-APR-2010) Contact:Jin Seok Moon Chungbuk National
+            University, Food Science and Technology; Gaeshin dong, Chenogju,
+            Chungbuk 361-267, South Korea: Chengju
+FEATURES             Location/Qualifiers
+     source          1..441
+                     /organism="Bacillus licheniformis"
+                     /mol_type="genomic DNA"
+                     /strain="A5"
+                     /isolation_source="fermented fish"
+                     /db_xref="taxon:1402"
+                     /country="South Korea: Chengju"
+                     /collection_date="24-Apr-2009"
+                     /collected_by="Jin Seok Moon"
+                     /identified_by="Jin Seok Moon"
+                     /PCR_primers="fwd_name: HDC3, fwd_seq:
+                     gatggtattgtttcktatga, rev_name: HDC4, rev_seq:
+                     caaacaccagcatcttc"
+     CDS             1..441
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="BAJ05382.1"
+                     /translation="MNKSATAYRPKENRPLKEGEAYGVWSFIALSLSNDRDHCADLFIE
+                     DAGLWTKNDNPEDLKKFLEDHRKAVTWSVVECGRDSHVVFERTYIGFAYVIMKPGEIGN
+                     ALTCAPYVTLARDAVPSEGFPSLNRISLSQWLDDMNFDSLVN"
+ORIGIN
+        1 atgaataaga gtgctacagc ttatagacca aaggaaaata gacctttaaa agaaggagaa
+       61 gcttatggtg tatggtcatt tatagcctta tcactatcaa atgatagaga tcactgtgct
+      121 gatttattca tagaagatgc aggactttgg acaaaaaatg ataatccaga agacttaaag
+      181 aaattcctag aagatcatag aaaagctgta acttggtcag tagttgaatg cggtagagat
+      241 tctcatgttg tttttgaaag aacttacata ggttttgctt atgtaataat gaaacctggt
+      301 gaaattggaa acgctttaac ttgcgctcct tatgtaacct tagcaagaga tgctgttcct
+      361 tctgaaggtt tcccaagttt aaatagaatt tctctttctc aatggttaga tgatatgaat
+      421 tttgattctt tagttaatta a
+//

@@ -1,0 +1,67 @@
+LOCUS       AJ831547                 951 bp    DNA     linear   BCT 24-MAR-2006
+DEFINITION  Oenococcus oeni hdcA gene for histidine decarboxylase.
+ACCESSION   AJ831547
+VERSION     AJ831547.1
+KEYWORDS    hdcA gene; histidine decarboxylase.
+SOURCE      Oenococcus oeni
+  ORGANISM  Oenococcus oeni
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Oenococcus.
+REFERENCE   1
+  AUTHORS   Beltramo,C., Desroche,N., Tourdot-Marechal,R., Grandvalet,C. and
+            Guzzo,J.
+  TITLE     Real-time PCR for characterizing the stress response of Oenococcus
+            oeni in a wine-like medium
+  JOURNAL   Res. Microbiol. 157 (3), 267-274 (2006)
+   PUBMED   16171980
+REFERENCE   2  (bases 1 to 951)
+  AUTHORS   Desroche,N.
+  CONSRTM   Consortium from Universite de Bourgogne, Dijon; Genome Express,
+            Grenoble; INRA and Universite de Bordeaux, France.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-SEP-2004) Desroche N., Ensbana, Laboratory of
+            Microbiology, 1, esplanade Erasme, 21000 Dijon, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..951
+                     /organism="Oenococcus oeni"
+                     /mol_type="genomic DNA"
+                     /strain="IOB 8413"
+                     /db_xref="taxon:1247"
+     gene            1..951
+                     /gene="hdcA"
+     CDS             1..951
+                     /gene="hdcA"
+                     /EC_number="4.1.1.22"
+                     /function="amino acid decarboxylase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="CAH41007.1"
+                     /db_xref="GOA:O66000"
+                     /db_xref="HSSP:P00862"
+                     /db_xref="InterPro:IPR003427"
+                     /db_xref="UniProtKB/TrEMBL:O66000"
+                     /translation="MSEFDKKLNTLGVDRISVSPYKKWSRGYLEPGNVGNGYVSGLKVD
+                     AGVIDKTDDMILDGIVSYDRAETKNAYIGQINMTTASSFSGVGGTVLGYDILRNPEVDK
+                     AKPLFTEKQWDGSELPIYDAKPLQDTLVEYFGTKDDMRHYPAPGAFVCCANKGVTAERP
+                     KNDADMKPGQGYGVWSAIAISFAKDPTKYSSMYVEDAGVWETPNEDELIEYLKGRRNAM
+                     AKSIAACGENTAAENGGAVFTSSWIGFAHAMMKPGQVGNAITVAPYIAMPVDSIPGGSI
+                     LTPDTDMDIMQNLTMPEWLDKMGYQPLTKGGNINY"
+ORIGIN
+        1 atgtcagagt ttgataaaaa gttgaacaca cttggggttg accgtatctc agtgagtcca
+       61 tacaagaaat ggtctagagg gtatcttgaa ccaggaaacg ttggtaatgg atatgtttca
+      121 ggacttaaag tagatgctgg tgtcattgat aaaaccgatg atatgatcct tgatggtatt
+      181 gtttcgtatg accgtgcgga aacaaagaat gcctatattg gacaaatcaa catgactact
+      241 gcatcaagtt tctctggtgt tggtggaact gttcttggtt atgacatcct tcgtaaccct
+      301 gaagttgaca aagctaagcc attatttact gaaaaacaat gggacggtag tgaacttcca
+      361 atttacgatg caaagccttt acaagatact ttagttgaat actttggtac taaagacgat
+      421 atgcgtcact atcctgctcc aggtgcattt gtatgctgtg ccaacaaagg tgtaactgca
+      481 gaacgtccaa agaacgatgc agatatgaag cctggtcaag gatatggtgt ttggtcagca
+      541 atcgcaattt catttgcaaa ggatccaact aagtactcaa gtatgtatgt tgaagatgct
+      601 ggtgtttggg agactcctaa cgaagatgaa ttgattgaat atcttaaggg ccgtcgtaat
+      661 gcaatggcta agtcaattgc agcctgtggc gaaaacactg ccgccgaaaa tggtggtgcc
+      721 gtattcacaa gctcatggat tggatttgca catgcaatga tgaagccagg acaagttggt
+      781 aatgcaatta ctgttgctcc ttatattgca atgcctgttg attcaattcc aggtggctca
+      841 attcttacac ctgatactga catggatatt atgcagaatc ttactatgcc agaatggctt
+      901 gacaagatgg gttaccaacc attaactaag ggtggaaaca tcaattatta a
+//

@@ -1,0 +1,76 @@
+LOCUS       OOU58865                1277 bp    DNA     linear   BCT 25-JUL-2016
+DEFINITION  Oenococcus oeni histidine decarboxylase (hdcA) gene, complete cds;
+            and HdcB (hdcB) gene, partial cds.
+ACCESSION   U58865
+VERSION     U58865.1
+KEYWORDS    .
+SOURCE      Oenococcus oeni
+  ORGANISM  Oenococcus oeni
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Oenococcus.
+REFERENCE   1  (bases 1 to 1277)
+  AUTHORS   Coton,E., Rollan,G.C. and Lonvaud-Funel,A.
+  TITLE     Histidine carboxylase of Leuconostoc oenos 9204: purification,
+            kinetic properties, cloning and nucleotide sequence of the hdc gene
+  JOURNAL   J. Appl. Microbiol. 84 (2), 143-151 (1998)
+   PUBMED   9633629
+REFERENCE   2  (bases 1 to 1277)
+  AUTHORS   Coton,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAY-1996) LBMA, Faculte d'Oenologie, 351, cours de la
+            Liberation, Talence 33405, France
+FEATURES             Location/Qualifiers
+     source          1..1277
+                     /organism="Oenococcus oeni"
+                     /mol_type="genomic DNA"
+                     /strain="9204"
+                     /db_xref="taxon:1247"
+     gene            19..969
+                     /gene="hdcA"
+     CDS             19..969
+                     /gene="hdcA"
+                     /EC_number="4.1.1.22"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="AAC38298.1"
+                     /translation="MSEFDKKLNTLGVDRISVSPYKKWSRGYLEPGNVGNGYVSGLKVD
+                     AGVIDKTDDMILDGIVSYDRAETKNAYIGQINMTTASSFSGVGGTVLGYDILRNPEVDK
+                     AKPLFTEKQWDGSELPIYDAKPLQDTLVEYFGTKDDMRHYPAPGAFVCCANKGVTAERP
+                     KNDADMKPGQGYGVWSAIAISFAKDPTKYSSMYVEDAGVWETPNEDELIEYLKGRRNAM
+                     AKSIAACGENTAAENGGAVFTSSWIGFAHAMMKPGQVGNAITVAPYIAMPVDSIPGGSI
+                     LTPDTDMDIMQNLTMPEWLDKMGYQPLTKGGNINY"
+     gene            1003..>1277
+                     /gene="hdcB"
+     CDS             1003..>1277
+                     /gene="hdcB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="HdcB"
+                     /protein_id="AAC38299.1"
+                     /translation="MINVSDANNTTVQSVISYESMPDFVGKYLSDIPDKISQVILNQRS
+                     NGSEIYLTSMKNVYLLTAHGISAMKKEAVQSAHFEKGAPLGSITIT"
+ORIGIN
+        1 aaaatggagg taacaattat gtcagagttt gataaaaagt tgaacacact tggggttgac
+       61 cgtatctcag tgagtccata caagaaatgg tctagagggt atcttgaacc aggaaacgtt
+      121 ggtaatggat atgtttcagg acttaaagta gatgctggtg tcattgataa aaccgatgat
+      181 atgatccttg atggtattgt ttcgtatgac cgtgcggaaa caaagaatgc ctatattgga
+      241 caaatcaaca tgactactgc atcaagtttc tctggtgttg gtggaactgt tcttggttat
+      301 gacatccttc gtaaccctga agttgacaaa gctaagccat tatttactga aaaacaatgg
+      361 gacggtagtg aacttccaat ttacgatgca aagcctttac aagatacttt agttgaatac
+      421 tttggtacta aagacgatat gcgtcactat cctgctccag gtgcatttgt atgctgtgcc
+      481 aacaaaggtg taactgcaga acgtccaaag aacgatgcag atatgaagcc tggtcaagga
+      541 tatggtgttt ggtcagcaat cgcaatttca tttgcaaagg atccaactaa gtactcaagt
+      601 atgtatgttg aagatgctgg tgtttgggag actcctaacg aagatgaatt gattgaatat
+      661 cttaagggcc gtcgtaatgc aatggctaag tcaattgcag cctgtggcga aaacactgcc
+      721 gccgaaaatg gtggtgccgt attcacaagc tcatggattg gatttgcaca tgcaatgatg
+      781 aagccaggac aagttggtaa tgcaattact gttgctcctt atattgcaat gcctgttgat
+      841 tcaattccag gtggctcaat tcttacacct gatactgaca tggatattat gcagaatctt
+      901 actatgccag aatggcttga caagatgggt taccaaccat taactaaggg tggaaacatc
+      961 aattattaat ttggattcca ctttaaggct tgggagataa ttatgattaa tgtgagtgat
+     1021 gctaacaata ctactgttca atctgtcatt tcttatgagt ctatgcctga ctttgttggg
+     1081 aaatatctgt cagatattcc tgataaaata agtcaagtca ttctgaatca gcgatctaat
+     1141 ggaagcgaga tatatcttac ttctatgaag aatgtttatc tccttactgc acatggaatc
+     1201 tccgcaatga agaaagaggc agtacagagt gctcacttcg aaaagggtgc accgctcgga
+     1261 tctatcacca ttacctt
+//

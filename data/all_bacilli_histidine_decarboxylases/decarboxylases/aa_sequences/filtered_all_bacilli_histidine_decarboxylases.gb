@@ -1,0 +1,1028 @@
+LOCUS       GEK41371                 311 aa            linear   BCT 29-JAN-2021
+DEFINITION  histidine decarboxylase [Ligilactobacillus aviarius].
+ACCESSION   GEK41371
+VERSION     GEK41371.1
+DBLINK      BioProject: PRJDB6124
+            BioSample: SAMD00166013
+KEYWORDS    .
+SOURCE      GEK41370.1 ds-1 score=0.80
+  ORGANISM  Ligilactobacillus aviarius
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Ligilactobacillus.
+REFERENCE   1
+  AUTHORS   Hosoyama,A., Uohara,A., Ohji,S. and Ichikawa,N.
+  TITLE     Whole genome shotgun sequence of Lactobacillus aviarius subsp.
+            aviarius NBRC 102162
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 311)
+  AUTHORS   Hosoyama,A. and Ichikawa,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUL-2019) Contact:Director-General Biological Resource
+            Center National Institute of Technology and Evaluation, NITE
+            Biological Resource Center; 2-49-10 Nishihara, Shibuya-ku, Tokyo
+            151-0066, Japan URL :http://www.nite.go.jp/nbrc/index.html
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: newbler v. 3.0
+            Genome Coverage       :: 147x
+            Sequencing Technology :: Illumina HiSeq 1000
+            ##Genome-Assembly-Data-END##
+            The NBRC Whole Genome Shotgun Project aims to provide 'reference
+            genomes' of NBRC culture collection strains for identifying useful
+            genes for taxonomic classification, risk/safety assessment, and
+            industrial application, and for understanding the structure and
+            evolution of microbial genomes.
+            Annotated by DFAST v.1.2.0 (https://dfast.nig.ac.jp).
+FEATURES             Location/Qualifiers
+     source          1..311
+                     /organism="Ligilactobacillus aviarius"
+                     /strain="NBRC 102162"
+                     /type_material="type strain of Lactobacillus aviarius"
+                     /db_xref="taxon:1606"
+     Protein         1..311
+                     /product="histidine decarboxylase"
+     Region          4..307
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..311
+                     /locus_tag="LAV01_02030"
+                     /coded_by="BJUI01000001.1:204073..205008"
+                     /inference="COORDINATES: ab initio
+                     prediction:MetaGeneAnnotator"
+                     /inference="similar to AA sequence:RefSeq:WP_005786245.1"
+                     /transl_table=11
+ORIGIN
+        1 makldlnlnk qgidriaisp ykqysrgyme pgnigngyvt glkvdagvrd ktdddvldgi
+       61 vsydraetkn ayigqinmtt assftgpqgh vvgydilrnp evdkvkplfv ekqwdgsdlp
+      121 iydakplqda lveyfgmeqe rrhypapgsf ivcankgvta erpkadeplk pgqgygvwsa
+      181 iaisfakdps knssmfieda gvwetpnede lieylngrrk aiaksiaecg qdadtafess
+      241 wigfahvmmk pgqignaitv gpyfslpvds ipngsiltpd kdmeimenls lpewldkmgy
+      301 eslvkknnvt y
+//
+LOCUS       WP_176008086             559 aa            linear   BCT 24-JUN-2020
+DEFINITION  histidine decarboxylase [Bacillus sp. M4U3P1].
+ACCESSION   WP_176008086
+VERSION     WP_176008086.1
+KEYWORDS    RefSeq.
+SOURCE      Bacillus sp. M4U3P1
+  ORGANISM  Bacillus sp. M4U3P1
+            Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..559
+                     /organism="Bacillus sp. M4U3P1"
+                     /db_xref="taxon:2592382"
+     Protein         1..559
+                     /product="histidine decarboxylase"
+                     /calculated_mol_wt="62672"
+ORIGIN
+        1 mtthktkqss smfelgdgrm seqdrheils dlaqemqgkq qtflgyqvnq eldysafapf
+       61 lnvhinnagd pftpgnmtmn skemekavld yyadlwnakt phqnttgdsy wgytlsmgst
+      121 egnvygiwna rdylggkvll sdpeaeeval easkdggakk apvgvayqqg emengnenaf
+      181 rpiafysqdt hysivkamrv ldfttyydqa vatgeecplv ypddfptgfs skymgksgwp
+      241 levpsnddgs ihipslaklv tffaerghpi fvcfnygttf kgayddiesa vaalvpilke
+      301 ngmyeravty etddavktst rtgywfhvdg algaaympyi ekaidagele lpedfayrpf
+      361 dfripevhsi tcsfhkyagl pfpsgifmgk tknqllppdd pmyigspdtt fagsrnglag
+      421 mmmwdflakh seedhiaqvv kneevaayat lrlqkleeel nstlwversp lsltlrfkrp
+      481 sekiiykysl sceelyvdga krgyahifcm nhvtedlidq lvedlrtpga fpeqmkverd
+      541 edahdehnvy sptigksfk
+//
+LOCUS       WP_134756855             370 aa            linear   BCT 13-APR-2019
+DEFINITION  histidine decarboxylase [Paenibacillus sp. MEC069].
+ACCESSION   WP_134756855
+VERSION     WP_134756855.1
+KEYWORDS    RefSeq.
+SOURCE      Paenibacillus sp. MEC069
+  ORGANISM  Paenibacillus sp. MEC069
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+COMMENT     ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF002748.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK02769
+            ##Evidence-For-Name-Assignment-END##
+            REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..370
+                     /organism="Paenibacillus sp. MEC069"
+                     /db_xref="taxon:1967502"
+     Protein         1..370
+                     /product="histidine decarboxylase"
+                     /EC_number="4.1.1.22"
+                     /calculated_mol_wt="41498"
+     Region          2..359
+                     /region_name="Beta_elim_lyase"
+                     /note="Beta-eliminating lyase; cl18945"
+                     /db_xref="CDD:354370"
+ORIGIN
+        1 mlnlyqnklq qlklhqfgfq ynadrsysqf gwlldyfinn igdpfipsny gldsreyeie
+       61 ivnyfsalwn meeswgylts sgtegnlaal lygklslknp vvyysedthy siakgclafs
+      121 lesvvvrsqp hgemdythle avidqhrdai vicnlsttfk gaydsanqal evfnrkgisr
+      181 ehvyvhgdga lggmmlpfip nlqsdyging esfdsvsvsg hkmpgvpvpc giiltkksim
+      241 rnmekeieyl nskdttlngs rnglaavlfy haltdltreq wtfkinqcid naaymsrtln
+      301 eagitsfvnp ysnlvvfqrp apdmvhkwql scigqqakaa impqhslaqv drlvaevvlr
+      361 aheqldtvts
+//
+LOCUS       REK60872                 540 aa            linear   ENV 14-AUG-2018
+DEFINITION  histidine decarboxylase [Cohnella sp.].
+ACCESSION   REK60872
+VERSION     REK60872.1
+DBLINK      BioProject: PRJNA436557
+            BioSample: SAMN08628108
+KEYWORDS    ENV.
+SOURCE      Cohnella sp. (compost metagenome)
+  ORGANISM  Cohnella sp.
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Cohnella.
+REFERENCE   1  (residues 1 to 540)
+  AUTHORS   Verciano,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2018) Bioquimica, Instituto de Quimica, Av. Prof.
+            Lineu Prestes, 748, Sao Paulo, SP 05508-000, Brazil
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method                   :: SPAdes v. v3.11.0
+            Genome Representation             :: Full
+            Expected Final Version            :: Yes
+            Genome Coverage                   :: 17.0x
+            Sequencing Technology             :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI
+            Annotation Date                   :: 05/07/2018 13:31:48
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            Annotation Method :: Best-placed reference protein set; GeneMarkS+
+            Annotation Software revision      :: 4.5
+            Features Annotated :: Gene; CDS; rRNA; tRNA; ncRNA; repeat_region
+            Genes (total)                     :: 3,785
+            CDS (total)                       :: 3,721
+            Genes (coding)                    :: 3,670
+            CDS (coding)                      :: 3,670
+            Genes (RNA)                       :: 64
+            rRNAs                             :: 2, 3, 3 (5S, 16S, 23S)
+            complete rRNAs                    :: 2 (5S)
+            partial rRNAs                     :: 3, 3 (16S, 23S)
+            tRNAs                             :: 52
+            ncRNAs                            :: 4
+            Pseudo Genes (total)              :: 51
+            Pseudo Genes (ambiguous residues) :: 0 of 51
+            Pseudo Genes (frameshifted)       :: 13 of 51
+            Pseudo Genes (incomplete)         :: 37 of 51
+            Pseudo Genes (internal stop)      :: 7 of 51
+            Pseudo Genes (multiple problems)  :: 6 of 51
+            ##Genome-Annotation-Data-END##
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Cohnella sp."
+                     /isolate="ZCTH4_C"
+                     /isolation_source="zoo composting manure"
+                     /db_xref="taxon:1883426"
+                     /environmental_sample=""
+                     /country="Brazil"
+                     /lat_lon="23.651072 S 46.620675 W"
+                     /collection_date="2010-06-16"
+                     /metagenome_source="compost metagenome"
+                     /note="metagenomic"
+     Protein         1..540
+                     /product="histidine decarboxylase"
+     Region          24..517
+                     /region_name="AAT_I"
+                     /note="Aspartate aminotransferase (AAT) superfamily (fold
+                     type I) of pyridoxal phosphate (PLP)-dependent enzymes. PLP
+                     combines with an alpha-amino acid to form a compound called
+                     a Schiff base or aldimine intermediate, which depending on
+                     the reaction, is the...; cl18945"
+                     /db_xref="CDD:327488"
+     Site            order(121..122,125,277,331,334,370,373)
+                     /site_type="other"
+                     /note="pyridoxal 5'-phosphate binding pocket [chemical
+                     binding]"
+                     /db_xref="CDD:99742"
+     Site            373
+                     /site_type="active"
+                     /note="catalytic residue [active]"
+                     /db_xref="CDD:99742"
+     CDS             1..540
+                     /locus_tag="C6P35_18040"
+                     /coded_by="complement(QEWF01000045.1:9116..10738)"
+                     /inference="COORDINATES: protein motif:HMM:PF00282.17"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /transl_table=11
+ORIGIN
+        1 mdsslfqlse tglseqqyra awsqfnryil khrkyfmgyq anqqldyrnt lspylnlhvn
+       61 nigdpfqqgn fmlnskiler avldyfarlw hadwphledr trftpeeige sywgyivsmg
+      121 gtegnlyglr nardylagkl lasdipadaa eteervvpvr sklgqgyfvk aedegrlyae
+      181 rdarapeter fdnpnaytpv ifysqdthys idkikdllli ptfaeignar ypnqsplggn
+      241 wpdkvpsned gsvnldalyl laeffvqrgy piivnfnygt tfkgaydnvk aaverlipll
+      301 qkhglyhrvl evewngkiih skrtgfwfhv dgalgasytp flelarqqgr fkgdipvfdf
+      361 rldiqsiaas ghkeigapwp cgiymtrtky lldflevgyi gaqdstlsgs rngfsalilw
+      421 dyfarhsyda liekalrlek ladyayrklk qlegelgfnl hvgrsplalt vrfrrpnari
+      481 vsqfslstef lngvyyahif lmehvtaqlv dtliqalrqp gafgpdadqg fhlhegsgfr
+//
+LOCUS       WP_105957618             538 aa            linear   BCT 16-MAR-2018
+DEFINITION  histidine decarboxylase [Bacillus urumqiensis].
+ACCESSION   WP_105957618
+VERSION     WP_105957618.1
+KEYWORDS    RefSeq.
+SOURCE      Bacillus urumqiensis
+  ORGANISM  Bacillus urumqiensis
+            Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Bacillus urumqiensis"
+                     /db_xref="taxon:1548213"
+     Protein         1..538
+                     /product="histidine decarboxylase"
+                     /calculated_mol_wt="60760"
+     Region          28..511
+                     /region_name="AAT_I"
+                     /note="Aspartate aminotransferase (AAT) superfamily (fold
+                     type I) of pyridoxal phosphate (PLP)-dependent enzymes. PLP
+                     combines with an alpha-amino acid to form a compound called
+                     a Schiff base or aldimine intermediate, which depending on
+                     the reaction, is the...; cl18945"
+                     /db_xref="CDD:327488"
+     Site            order(118..119,122,273,327,330,368,371)
+                     /site_type="other"
+                     /note="pyridoxal 5'-phosphate binding pocket [chemical
+                     binding]"
+                     /db_xref="CDD:99742"
+     Site            371
+                     /site_type="active"
+                     /note="catalytic residue [active]"
+                     /db_xref="CDD:99742"
+ORIGIN
+        1 msyslraapa fglpaegisr sereavyeqm lsemqerssh flgyqvnqkl easpelfsfl
+       61 qmhlnnagdp ftrgsmtmnt kkmeeavldy faelwhaktp hdptdgesyw gytlsmgste
+      121 gnvygiwnar dylagktlls dthaesraea asregrparv edgmnyeqae aapqsphayq
+      181 pvaffsqdth ysivkamrvl afdtfsevgs rnypcplrfp edypagyssq yidesgwpke
+      241 vpseedgsvh lpslvklvrf fvekgypifv cfnygttfkg aydrveeave elvpvlkeng
+      301 myerdveyer dgrlystrrn gfwfhvdgal gaaympfveq amergemegq pfprfdfrip
+      361 dvhsivmsgh kwlgspfpgg vfmtktkfql lppddpmyig spdttfagsr nsfsamylwd
+      421 hlaqtphheq rkkavraeav asfaenalre vaaeleldlw vertplslti rfrrpsaevv
+      481 ekyslscesl yvngerrdyv hlfamehvte etlyalaadl laegayaeaa etgnkpge
+//
+LOCUS       SJZ72010                 311 aa            linear   BCT 04-MAR-2017
+DEFINITION  histidine decarboxylase [Lactobacillus lindneri DSM 20690 = JCM
+            11027].
+ACCESSION   SJZ72010
+VERSION     SJZ72010.1
+DBLINK      BioProject: PRJEB19573
+            BioSample: SAMN02746042
+KEYWORDS    .
+SOURCE      SJZ71976.1 ds-1 score=0.60
+  ORGANISM  Lactobacillus lindneri DSM 20690 = JCM 11027
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Fructilactobacillus.
+REFERENCE   1
+  AUTHORS   Varghese,N. and Submissions,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2017) DOE - JOINT GENOME INSTITUTE, LBNL, 2800
+            Mitchell Drive, Walnut Creek, CA 94598, USA
+FEATURES             Location/Qualifiers
+     source          1..311
+                     /organism="Lactobacillus lindneri DSM 20690 = JCM 11027"
+                     /strain="DSM 20690"
+                     /type_material="type strain of Lactobacillus lindneri"
+                     /db_xref="taxon:1122148"
+                     /note="contig: BP43DRAFT_scaffold00001.1"
+     Protein         1..311
+                     /product="histidine decarboxylase"
+     Region          8..304
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..311
+                     /locus_tag="SAMN02746042_00139"
+                     /coded_by="FUXS01000001.1:136677..137612"
+                     /transl_table=11
+ORIGIN
+        1 makideilnq egidriaisp ykqysrgyme pgnlgtgyvt glkvdagtrv ktddevldgi
+       61 vsydraeckn aymgqinmtt assftgvqgh ilgydllrnp avdnakplfe edqwdgsklp
+      121 iydgkplqdt lveyfgtsdn rrhypapgsf ivcankgvts yrpkedrplr tgesygvwsa
+      181 iaisiakdpv hnssmfieda gtwntpnedd lnefldrrrr aialsiaqcg qdantsfass
+      241 wigfahvmmk pgeignaitv gpyfsipvda vpggsiltpd vdmnimeqlt lpkwlekmky
+      301 qsivkdqhie y
+//
+LOCUS       BAG26233                 311 aa            linear   BCT 07-OCT-2016
+DEFINITION  histidine decarboxylase [Lactobacillus reuteri JCM 1112].
+ACCESSION   BAG26233
+VERSION     BAG26233.1
+DBLINK      BioProject: PRJDA19011
+            BioSample: SAMD00060920
+KEYWORDS    .
+SOURCE      BAG26234.1 us+1 score=0.82
+  ORGANISM  Lactobacillus reuteri JCM 1112
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Limosilactobacillus.
+REFERENCE   1
+  AUTHORS   Morita,H., Toh,H., Fukuda,S., Horikawa,H., Oshima,K., Suzuki,T.,
+            Murakami,M., Hisamatsu,S., Kato,Y., Takizawa,T., Fukuoka,H.,
+            Yoshimura,T., Itoh,K., O'Sullivan,D.J., McKay,L.L., Ohno,H.,
+            Kikuchi,J., Masaoka,T. and Hattori,M.
+  TITLE     Comparative genome analysis of Lactobacillus reuteri and
+            Lactobacillus fermentum reveal a genomic island for reuterin and
+            cobalamin production
+  JOURNAL   DNA Res. 15 (3), 151-161 (2008)
+   PUBMED   18487258
+REFERENCE   2  (residues 1 to 311)
+  AUTHORS   Hattori,M., Yamashita,A., Toh,H., Oshima,K. and Shiba,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2004) Contact:Masahira Hattori University of
+            Tokyo, Graduate School of Frontier Sciences; 5-1-5 Kashiwanoha,
+            Kashiwa, Chiba 277-8562, Japan URL
+            :http://www.cb.k.u-tokyo.ac.jp/hattorilab/
+FEATURES             Location/Qualifiers
+     source          1..311
+                     /organism="Lactobacillus reuteri JCM 1112"
+                     /strain="JCM 1112"
+                     /sub_species="reuteri"
+                     /type_material="type strain of Lactobacillus reuteri"
+                     /db_xref="taxon:557433"
+                     /note="type strain of Lactobacillus reuteri JCM 1112"
+     Protein         1..311
+                     /product="histidine decarboxylase"
+     Region          3..308
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..311
+                     /locus_tag="LAR_1717"
+                     /coded_by="complement(AP007281.1:1926216..1927151)"
+                     /transl_table=11
+ORIGIN
+        1 mseldtklhk lgvdriaisp ykqwsrgyme pgnigngyvt glkvdagvrd ktddevldgi
+       61 vsydraetkn ayigqinmtt assftgpqgh cigydllrnp evdtaeplft vkqwdgselp
+      121 iydakplqds lveyfgtndn rrhypapgsf ivcankgvta erpmndsdmk pgqgygvwsa
+      181 ialsfakdpa kdssmfieda gvwetpnede lieylkgrrk aiaksiaecg qdantsfkgs
+      241 wigfahamme pgqignaitv apyvsmpvds ipggsiltpd tdmdimenlt mpkwldkmgy
+      301 ksltangaik y
+//
+LOCUS       AAX19892                 297 aa            linear   BCT 26-JUL-2016
+DEFINITION  histidine decarboxylase, partial [Tetragenococcus muriaticus].
+ACCESSION   AAX19892
+VERSION     AAX19892.1
+KEYWORDS    .
+SOURCE      Tetragenococcus muriaticus
+  ORGANISM  Tetragenococcus muriaticus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Tetragenococcus.
+REFERENCE   1  (residues 1 to 297)
+  AUTHORS   Coton,E. and Coton,M.
+  TITLE     Multiplex PCR for colony direct detection of Gram-positive
+            histamine- and tyramine-producing bacteria
+  JOURNAL   J. Microbiol. Methods 63 (3), 296-304 (2005)
+   PUBMED   15935495
+REFERENCE   2  (residues 1 to 297)
+  AUTHORS   Coton,E.P. and Coton,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2004) ADRIA Normandie, Bd. du 13 Juin 1944,
+            Villers-Bocage 14310, France
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..297
+                     /organism="Tetragenococcus muriaticus"
+                     /strain="LMG 18498"
+                     /type_material="type strain of Tetragenococcus muriaticus"
+                     /db_xref="taxon:64642"
+     Protein         <1..>297
+                     /product="histidine decarboxylase"
+     Region          1..297
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..297
+                     /gene="hdc"
+                     /coded_by="AY800121.1:<1..>891"
+                     /note="pyruvoyl-dependent HDC"
+                     /transl_table=11
+ORIGIN
+        1 lgvdrisvsp ykkwsrgyle pgnvgngyvs glkvdagvvd ktddmildgi vsydraetkn
+       61 ayigqinmtt assfsgvggt vlgydilrnp evdkakplft ekqwdgselp iydakplqdn
+      121 lveyfgtkdd mrhypapgaf vccankgvta erpkndadmk pgqgygvwsa iaisfakdpt
+      181 kyasmyveda gvwetpnede lieylkgrrn amaksiaacg ehtagengga vftsswigfa
+      241 hammkpgqvg naitvapyia mpvdsipggs iltpdtdmdi mqnltmpewl dkmgyqs
+//
+LOCUS       AAC38298                 316 aa            linear   BCT 25-JUL-2016
+DEFINITION  histidine decarboxylase [Oenococcus oeni].
+ACCESSION   AAC38298
+VERSION     AAC38298.1
+KEYWORDS    .
+SOURCE      Oenococcus oeni
+  ORGANISM  Oenococcus oeni
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Oenococcus.
+REFERENCE   1  (residues 1 to 316)
+  AUTHORS   Coton,E., Rollan,G.C. and Lonvaud-Funel,A.
+  TITLE     Histidine carboxylase of Leuconostoc oenos 9204: purification,
+            kinetic properties, cloning and nucleotide sequence of the hdc gene
+  JOURNAL   J. Appl. Microbiol. 84 (2), 143-151 (1998)
+   PUBMED   9633629
+REFERENCE   2  (residues 1 to 316)
+  AUTHORS   Coton,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAY-1996) LBMA, Faculte d'Oenologie, 351, cours de la
+            Liberation, Talence 33405, France
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..316
+                     /organism="Oenococcus oeni"
+                     /strain="9204"
+                     /db_xref="taxon:1247"
+     Protein         1..316
+                     /product="histidine decarboxylase"
+                     /EC_number="4.1.1.22"
+     Region          3..309
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..316
+                     /gene="hdcA"
+                     /coded_by="U58865.1:19..969"
+                     /transl_table=11
+ORIGIN
+        1 msefdkklnt lgvdrisvsp ykkwsrgyle pgnvgngyvs glkvdagvid ktddmildgi
+       61 vsydraetkn ayigqinmtt assfsgvggt vlgydilrnp evdkakplft ekqwdgselp
+      121 iydakplqdt lveyfgtkdd mrhypapgaf vccankgvta erpkndadmk pgqgygvwsa
+      181 iaisfakdpt kyssmyveda gvwetpnede lieylkgrrn amaksiaacg entaaengga
+      241 vftsswigfa hammkpgqvg naitvapyia mpvdsipggs iltpdtdmdi mqnltmpewl
+      301 dkmgyqpltk ggniny
+//
+LOCUS       KTW17994                 310 aa            linear   BCT 22-DEC-2015
+DEFINITION  histidine decarboxylase [Staphylococcus warneri].
+ACCESSION   KTW17994
+VERSION     KTW17994.1
+DBLINK      BioProject: PRJNA278198
+            BioSample: SAMN03401362
+KEYWORDS    .
+SOURCE      KTW17995.1 us+1 score=0.64
+  ORGANISM  Staphylococcus warneri
+            Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae;
+            Staphylococcus.
+REFERENCE   1  (residues 1 to 310)
+  AUTHORS   Midha,S., Bansal,K., Sharma,S., Kumar,N., Patil,P.P., Chaudhry,V.
+            and Patil,P.B.
+  TITLE     Genomic Resource of Rice Seed Associated Bacteria
+  JOURNAL   Front Microbiol 6, 1551 (2016)
+   PUBMED   26793183
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 310)
+  AUTHORS   Midha,S., Bansal,K., Chaudhry,V., Sharma,S., Kumar,N., Patil,P.P.
+            and Patil,P.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-APR-2015) Bacterial Genomics and Evolution Laboratory,
+            CSIR-Institute of Microbial Technology, Sector 39A, Chandigarh,
+            Chandigarh 160036, India
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method              :: CLC Genomics Workbench v. 7.5
+            Genome Coverage              :: 96x
+            Sequencing Technology        :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 06/01/2015 15:26:13
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            Annotation Method :: Best-placed reference protein set; GeneMarkS+
+            Annotation Software revision :: 2.10
+            Features Annotated :: Gene; CDS; rRNA; tRNA; ncRNA; repeat_region
+            Genes                        :: 2,482
+            CDS                          :: 2,359
+            Pseudo Genes                 :: 58
+            rRNAs                        :: 9 (5S, 16S, 23S)
+            tRNAs                        :: 56
+            ncRNA                        :: 0
+            Frameshifted Genes           :: 25
+            ##Genome-Annotation-Data-END##
+            Source DNA available from Bacterial Genomics and Evolutionary
+            Laboratory, CSIR-Institute of Microbial Technology, Chandigarh,
+            India.
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+FEATURES             Location/Qualifiers
+     source          1..310
+                     /organism="Staphylococcus warneri"
+                     /strain="SA9"
+                     /host="Oryza sativa"
+                     /db_xref="taxon:1292"
+                     /country="India"
+                     /collection_date="2012"
+     Protein         1..310
+                     /product="histidine decarboxylase"
+     Region          8..309
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..310
+                     /locus_tag="SA9_09260"
+                     /coded_by="LDTT01000025.1:25695..26627"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_002503880.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /transl_table=11
+ORIGIN
+        1 mkktdkilke igisrvalne gkkyskgfme dgnigegyva glkvdagtrk ktddnvldni
+       61 vsydraeakn aymgqinmit assftglqgs tlgydilrnp evdesnplfs vkqwdgselp
+      121 iydskplqna lveyfgteqe rrhpltpgam sicankgvva srpkenreln edegygvwsa
+      181 iaisfaednt kdsdmfveda giwkdpseek lveylnekrh aiansiaecg ednhvrykss
+      241 wigfaytmme pgeignaitv gpyftvpita ipngdiskpe esfyslqdms isewlekmny
+      301 esltkngiky
+//
+LOCUS       KRM45968                 321 aa            linear   BCT 06-NOV-2015
+DEFINITION  histidine decarboxylase [Lactobacillus parabuchneri DSM 5707 = NBRC
+            107865].
+ACCESSION   KRM45968
+VERSION     KRM45968.1
+DBLINK      BioProject: PRJNA222257
+            BioSample: SAMN02369410
+KEYWORDS    .
+SOURCE      KRM45969.1 us+1 score=1.00
+  ORGANISM  Lactobacillus parabuchneri DSM 5707 = NBRC 107865
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lentilactobacillus.
+REFERENCE   1  (residues 1 to 321)
+  AUTHORS   Sun,Z., Harris,H.M., McCann,A., Guo,C., Argimon,S., Zhang,W.,
+            Yang,X., Jeffery,I.B., Cooney,J.C., Kagawa,T.F., Liu,W., Song,Y.,
+            Salvetti,E., Wrobel,A., Rasinkangas,P., Parkhill,J., Rea,M.C.,
+            O'Sullivan,O., Ritari,J., Douillard,F.P., Paul Ross,R., Yang,R.,
+            Briner,A.E., Felis,G.E., de Vos,W.M., Barrangou,R.,
+            Klaenhammer,T.R., Caufield,P.W., Cui,Y., Zhang,H. and O'Toole,P.W.
+  TITLE     Expanding the biotechnology potential of lactobacilli through
+            comparative genomics of 213 strains and associated genera
+  JOURNAL   Nat Commun 6, 8322 (2015)
+   PUBMED   26415554
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 321)
+  AUTHORS   Sun,Z., Harris,H.M., Argimon,S., Zhang,W., McCann,A., Jeffery,I.B.,
+            Yang,X., Guo,C., Liu,W., Song,Y., Yang,R., Cui,Y., Zhang,H. and
+            O'Toole,P.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2014) Inner Mongolia Agricultural University, Key
+            Laboratory of Dairy Biotechnology and Engineering, Education
+            Ministry of China, Zhaowuda Road, No. 306, Hohhot, Inner Mongolia
+            010018, The People's Republic of China
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: SOAPdenovo v. 2
+            Genome Coverage       :: 100x
+            Sequencing Technology :: Illumina MiSeq; Illumina HiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..321
+                     /organism="Lactobacillus parabuchneri DSM 5707 = NBRC
+                     107865"
+                     /strain="DSM 5707"
+                     /isolation_source="saliva"
+                     /host="Homo sapiens"
+                     /culture_collection="DSM:5707"
+                     /type_material="type strain of Lactobacillus parabuchneri"
+                     /db_xref="taxon:1423784"
+                     /collection_date="2002"
+     Protein         1..321
+                     /product="histidine decarboxylase"
+     Region          8..314
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..321
+                     /locus_tag="FC51_GL000673"
+                     /coded_by="complement(AZGK01000012.1:39450..40415)"
+                     /transl_table=11
+ORIGIN
+        1 mevtimsefd kklntlgvdr isvspykkws rgymepgnig ngyvsglkvd agvvdktddm
+       61 ildgivsydr aetknayigq inmttassfs gvggtvlgyd ilrnpevdka kplftekqwd
+      121 gselpiydak plqdtlveyf gtkddmrhyp apgafvccan kgvtaerpkn dedmkpgqgy
+      181 gvwsaiaisf akdptkyssm yvedagvwet pnedelieyl kgrrnamaks iaacgentag
+      241 enggavftss wigfahammk pgqvgnaitv apyiampvds ipggsiltpd tdmdimqnlt
+      301 mpewldkmgy qsltkdgnik y
+//
+LOCUS       EQC57919                 311 aa            linear   BCT 19-AUG-2013
+DEFINITION  histidine decarboxylase (plasmid) [Lactobacillus fermentum MTCC
+            8711].
+ACCESSION   EQC57919
+VERSION     EQC57919.1
+DBLINK      BioProject: PRJNA212396
+            BioSample: SAMN02470291
+KEYWORDS    .
+SOURCE      EQC57918.1 ds-1 score=0.80
+  ORGANISM  Lactobacillus fermentum MTCC 8711
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Limosilactobacillus.
+REFERENCE   1  (residues 1 to 311)
+  AUTHORS   Jayashree,S., Pooja,S., Pushpanathan,M., Vishnu,U.,
+            Sankarasubramanian,J., Rajendhran,J. and Gunasekaran,P.
+  TITLE     Genome Sequence of Lactobacillus fermentum Strain MTCC 8711, a
+            Probiotic Bacterium Isolated from Yogurt
+  JOURNAL   Genome Announc 1 (5), e00770-13 (2013)
+   PUBMED   24072868
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 311)
+  AUTHORS   Sathyanarayanan,J., Sharma,P., Muthuirulan,P., Udayakumar,V.S.,
+            Jagadesan,S., Jeyaprakash,R. and Paramasamy,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-AUG-2013) Department of Genetics, Madurai Kamaraj
+            University, Palkalai Nagar, Madurai, TamilNadu 625021, India
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method              :: MIRA v. 3.9.17
+            Reference-guided Assembly    :: NC_010610
+            Genome Coverage              :: 35.98x
+            Sequencing Technology        :: IonTorrent
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 08/06/2013 15:06:48
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            Annotation Method :: Best-placed reference protein set; GeneMarkS+
+            Annotation Software revision :: 2.1 (rev. 407822)
+            Features Annotated           :: Gene; CDS; rRNA; tRNA; repeat_region
+            Genes                        :: 2,691
+            CDS                          :: 2,266
+            Pseudo Genes                 :: 352
+            CRISPR Arrays                :: 4
+            rRNAs                        :: 15 (5S, 16S, 23S)
+            tRNAs                        :: 58
+            Frameshifted Genes           :: 324
+            ##Genome-Annotation-Data-END##
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            Reference-guided assembly based on Lactobacillus fermentum IFO 3956
+            deposited in NC_010610.
+FEATURES             Location/Qualifiers
+     source          1..311
+                     /organism="Lactobacillus fermentum MTCC 8711"
+                     /strain="MTCC 8711"
+                     /isolation_source="yogurt"
+                     /culture_collection="MTCC:8711"
+                     /db_xref="taxon:1366052"
+                     /plasmid="pLF01"
+                     /country="India"
+     Protein         1..311
+                     /product="histidine decarboxylase"
+     Region          3..308
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..311
+                     /locus_tag="N219_12540"
+                     /coded_by="AVAB01000110.1:27788..28723"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS+."
+                     /transl_table=11
+ORIGIN
+        1 mseldtklnk lgvdriaisp ykqwsrgyme pgnigngyvt glkvdagvrd ktdddvldgi
+       61 vsydraetkn ayigqinmtt assftgpqgh cigydilknp avddakplft ekqwdgselp
+      121 iydakplqda lveyfgtndn rrhypapgsf ivcankgvta erplddadmk pgqgygvwsa
+      181 ialsfakdps kdssmfieda gvwetpnede lieylkgrrk aiaksiaecg qdantsfkgs
+      241 wigfahammk pgqignaitv apyvsmpvds ipggsiltpd tdmnimenlt mpewldkmgy
+      301 ksltangaik y
+//
+LOCUS       AAB59151                 311 aa            linear   BCT 14-FEB-1996
+DEFINITION  histidine decarboxylase [Lactobacillus sp. 30A].
+ACCESSION   AAB59151
+VERSION     AAB59151.1
+KEYWORDS    .
+SOURCE      Lactobacillus sp. 30A
+  ORGANISM  Lactobacillus sp. 30A
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus; unclassified Lactobacillus.
+REFERENCE   1  (residues 1 to 311)
+  AUTHORS   Vanderslice,P., Copeland,W.C. and Robertus,J.D.
+  TITLE     Cloning and nucleotide sequence of wild type and a mutant histidine
+            decarboxylase from Lactobacillus 30a
+  JOURNAL   J. Biol. Chem. 261 (32), 15186-15191 (1986)
+   PUBMED   3021766
+COMMENT     Draft entry and sequence for [2] were kindly provided in
+            computer-readable form by M.P.Ready, 26-AUG-1986.
+            Shine-Dalgarno sites were identified at positions 157-162 and
+            1172-1177.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..311
+                     /organism="Lactobacillus sp. 30A"
+                     /db_xref="taxon:1593"
+                     /clone="pPV[1,2]"
+                     /tissue_lib="ATCC 33222"
+     Protein         1..311
+                     /product="histidine decarboxylase"
+     mat_peptide     2..82
+                     /product="histidine decarboxylase alpha chain"
+     Region          3..309
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     mat_peptide     83..311
+                     /product="histidine decarboxylase beta chain"
+     CDS             1..311
+                     /coded_by="J02613.1:170..1105"
+                     /note="precursor"
+                     /transl_table=11
+ORIGIN
+        1 mseldaklnk lgvdriaisp ykqwtrgyme pgnigngyvt glkvdagvrd ksdddvldgi
+       61 vsydraetkn ayigqinmtt assftgvqgr vigydilrsp evdkakplft etqwdgselp
+      121 iydakplqda lveyfgteqd rrhypapgsf ivcankgvta erpkndadmk pgqgygvwsa
+      181 iaisfakdpt kdssmfveda gvwetpnede lleylegrrk amaksiaecg qdahasfess
+      241 wigfaytmme pgqignaitv apyvslpids ipggsiltpd kdmeimenlt mpewlekmgy
+      301 kslsannalk y
+//
+LOCUS       AAX19893                 297 aa            linear   BCT 08-JUN-2006
+DEFINITION  histidine decarboxylase, partial [Latilactobacillus sakei].
+ACCESSION   AAX19893
+VERSION     AAX19893.1
+KEYWORDS    .
+SOURCE      Latilactobacillus sakei
+  ORGANISM  Latilactobacillus sakei
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Latilactobacillus.
+REFERENCE   1  (residues 1 to 297)
+  AUTHORS   Coton,E. and Coton,M.
+  TITLE     Multiplex PCR for colony direct detection of Gram-positive
+            histamine- and tyramine-producing bacteria
+  JOURNAL   J. Microbiol. Methods 63 (3), 296-304 (2005)
+   PUBMED   15935495
+REFERENCE   2  (residues 1 to 297)
+  AUTHORS   Coton,E.P. and Coton,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2004) ADRIA Normandie, Bd. du 13 Juin 1944,
+            Villers-Bocage 14310, France
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..297
+                     /organism="Latilactobacillus sakei"
+                     /strain="LTH 2076"
+                     /db_xref="taxon:1599"
+     Protein         <1..>297
+                     /product="histidine decarboxylase"
+     Region          1..297
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..297
+                     /gene="hdc"
+                     /coded_by="AY800122.1:<1..>891"
+                     /note="pyruvoyl-dependent HDC"
+                     /transl_table=11
+ORIGIN
+        1 lgvdrisvsp ykkwsrgyle pgnvgngyvs gikvdagvvd ktddmildgi vsydraetkn
+       61 ayigqinmtt assfsgvggt vlgydilrnp evdkakplft ekqwdgselp iydakplqdt
+      121 lveyfgtkdd mrhypapgaf vccankgvta erpkndadmk pgqgygvwsa iaisfakdpt
+      181 kyssmyveda gvwetpnede lieylkgrrn amaksiaacg entagengga vftsswigfa
+      241 hammkpgqvg naitvapyia mpvdsipggs iltpdtdmdi mqnltmpewl dkmgyqs
+//
+LOCUS       BAG55999                 310 aa            linear   BCT 19-APR-2011
+DEFINITION  histidine decarboxylase [Staphylococcus epidermidis].
+ACCESSION   BAG55999
+VERSION     BAG55999.1
+KEYWORDS    .
+SOURCE      BAG56000.1 us+1 score=0.64
+  ORGANISM  Staphylococcus epidermidis
+            Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae;
+            Staphylococcus.
+REFERENCE   1
+  AUTHORS   Yokoi,K.J., Harada,Y., Shozen,K., Satomi,M., Taketo,A. and
+            Kodaira,K.
+  TITLE     Characterization of the histidine decarboxylase gene of
+            Staphylococcus epidermidis TYH1 coded on the staphylococcal cassette
+            chromosome
+  JOURNAL   Gene 477 (1-2), 32-41 (2011)
+   PUBMED   21236322
+REFERENCE   2  (residues 1 to 310)
+  AUTHORS   Yokoi,K. and Kodaira,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-AUG-2010) Contact:Ken-ji Yokoi Toyama prefectural food
+            research institute; 360 Yoshioka, Toyama, Toyama 939-8153, Japan
+FEATURES             Location/Qualifiers
+     source          1..310
+                     /organism="Staphylococcus epidermidis"
+                     /strain="TYH1"
+                     /db_xref="taxon:1282"
+     Protein         1..310
+                     /product="histidine decarboxylase"
+     Region          8..309
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..310
+                     /gene="hdcA"
+                     /coded_by="AB583189.1:1810..2742"
+                     /transl_table=11
+ORIGIN
+        1 mkktdkilke igisrvalne gkkyskgfme dgnigegyva glkvdagtrk ktddnvldni
+       61 vsydraeakn aymgqinmit assftglqgs tlgydilrnp evdesnplfs vkqwdgselp
+      121 iydskplqna lveyfgteqe rrhpltpgam sicankgvva srpkenreln edegygvwsa
+      181 iaisfaednt kdsdmfveda giwkdpseek lveylnekrh aiansiaecg ednhvrykss
+      241 wigfaytmme pgeignaitv gpyftvpita ipngdiskpe esfyslqdms isewlekmny
+      301 esltkngiky
+//
+LOCUS       CBK46769                 311 aa            linear   BCT 09-SEP-2010
+DEFINITION  histidine decarboxylase [Streptococcus thermophilus].
+ACCESSION   CBK46769
+VERSION     CBK46769.1
+KEYWORDS    .
+SOURCE      CBK46770.1 us+1 score=0.61
+  ORGANISM  Streptococcus thermophilus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1
+  AUTHORS   Calles-Enriquez,M., Eriksen,B.H., Andersen,P.S., Rattray,F.P.,
+            Johansen,A.H., Fernandez,M., Ladero,V. and Alvarez,M.A.
+  TITLE     Sequencing and transcriptional analysis of the Streptococcus
+            thermophilus histamine biosynthesis gene cluster: factors that
+            affect differential hdcA expression
+  JOURNAL   Appl. Environ. Microbiol. 76 (18), 6231-6238 (2010)
+   PUBMED   20656875
+REFERENCE   2  (residues 1 to 311)
+  AUTHORS   Ladero,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2010) Ladero V., Technology of Dairy Products,
+            IPLA-CSIC, Crta Infiesto s/n, 33300, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..311
+                     /organism="Streptococcus thermophilus"
+                     /strain="CHCC 6483"
+                     /db_xref="taxon:1308"
+     Protein         1..311
+                     /product="histidine decarboxylase"
+     Region          6..308
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..311
+                     /gene="hdcA"
+                     /coded_by="FN686790.1:691..1626"
+                     /transl_table=11
+                     /db_xref="GOA:E0WF75"
+                     /db_xref="InterPro:IPR003427"
+                     /db_xref="InterPro:IPR016004"
+                     /db_xref="InterPro:IPR016104"
+                     /db_xref="InterPro:IPR016105"
+                     /db_xref="InterPro:IPR016106"
+                     /db_xref="UniProtKB/TrEMBL:E0WF75"
+ORIGIN
+        1 mstteklref ginriclspy kkysrgysep gnigtgyvag lkvdagvrdk tddtvldgiv
+       61 sydraeakna yigqinmeta ssftglqgvt lgydilrnpa vdeekplfve pqwdgselpi
+      121 ydakplqdal veyfgtesdr rhnlvpgamv vcankgvtay rpqedrpfqa gegygvwsai
+      181 aisfaadgtv dsdmfiedag vwtkndnead liawldtrrk aiaksiaecg qdshvrfart
+      241 yigfahammk pnqignaitv gpyfaipvda ipggditdpd gcfdilehls lpdwldamny
+      301 tsltandqik y
+//
+LOCUS       CAK55535                 310 aa            linear   BCT 26-JUL-2016
+DEFINITION  histidine decarboxylase [Staphylococcus capitis].
+ACCESSION   CAK55535
+VERSION     CAK55535.1
+KEYWORDS    .
+SOURCE      CAK55536.1 us+1 score=0.64
+  ORGANISM  Staphylococcus capitis
+            Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae;
+            Staphylococcus.
+REFERENCE   1
+  AUTHORS   de las Rivas,B., Rodriguez,H., Carrascosa,A.V. and Munoz,R.
+  TITLE     Molecular cloning and functional characterization of a histidine
+            decarboxylase from Staphylococcus capitis
+  JOURNAL   J. Appl. Microbiol. 104 (1), 194-203 (2008)
+   PUBMED   17887985
+REFERENCE   2  (residues 1 to 310)
+  AUTHORS   Munoz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUN-2006) Munoz R., Microbiologia, Instituto de
+            Fermentaciones Industriales, C/Juan de la Cierva, 3, 28006 - Madrid,
+            SPAIN
+FEATURES             Location/Qualifiers
+     source          1..310
+                     /organism="Staphylococcus capitis"
+                     /db_xref="taxon:29388"
+     Protein         1..310
+                     /product="histidine decarboxylase"
+     Region          8..309
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..310
+                     /gene="hdcA"
+                     /coded_by="AM283479.1:2350..3282"
+                     /transl_table=11
+                     /db_xref="GOA:A9IZZ1"
+                     /db_xref="InterPro:IPR003427"
+                     /db_xref="InterPro:IPR016004"
+                     /db_xref="InterPro:IPR016104"
+                     /db_xref="InterPro:IPR016105"
+                     /db_xref="InterPro:IPR016106"
+                     /db_xref="UniProtKB/TrEMBL:A9IZZ1"
+ORIGIN
+        1 mkktdeilre igisrvalnk gakyskgfme dgnigegyva glkvdagtrk ktddnvldni
+       61 vsydraeakn aymgqinmit assftglqgs tlgydilrnp evdeasslfs vkqwdgselp
+      121 iydskplqna lveyfgteqe rrhpltpgam sicankgvia srpkenreln edegygvwsa
+      181 iaisfaednt kdsdmfveda giwkdpsedk lveylnekrh aiansiaecg ednhvrykss
+      241 wigfaytmme pgeignaitv gpyftfpita ipngdinkpe esfyslqdid lsewldkmgy
+      301 esltkngiky
+//
+LOCUS       CAG44458                 316 aa            linear   BCT 13-APR-2005
+DEFINITION  histidine decarboxylase [Lentilactobacillus buchneri].
+ACCESSION   CAG44458
+VERSION     CAG44458.1
+KEYWORDS    .
+SOURCE      CAG44457.1 ds-1 score=1.00
+  ORGANISM  Lentilactobacillus buchneri
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lentilactobacillus.
+REFERENCE   1
+  AUTHORS   Martin,M.C., Fernandez,M., Linares,D.M. and Alvarez,M.A.
+  TITLE     Sequencing, characterization and transcriptional analysis of the
+            histidine decarboxylase operon of Lactobacillus buchneri
+  JOURNAL   Microbiology (Reading, Engl.) 151 (PT 4), 1219-1228 (2005)
+   PUBMED   15817789
+REFERENCE   2  (residues 1 to 316)
+  AUTHORS   Martin,M.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUN-2004) Martin M.C., Instituto de Prod. Lacteos de
+            Asturias, Consejo Sup. Invesigaciones Cientificas, Carretera de
+            Infiesto s/n, Villaviciosa, Asturias, 33300, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..316
+                     /organism="Lentilactobacillus buchneri"
+                     /isolate="B301"
+                     /db_xref="taxon:1581"
+     Protein         1..316
+                     /product="histidine decarboxylase"
+     Region          3..309
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..316
+                     /gene="hdcA"
+                     /coded_by="AJ749838.1:2260..3210"
+                     /transl_table=11
+                     /db_xref="GOA:Q574E5"
+                     /db_xref="HSSP:P00862"
+                     /db_xref="InterPro:IPR003427"
+                     /db_xref="UniProtKB/TrEMBL:Q574E5"
+ORIGIN
+        1 msefdkklnt lgvdrisvsp ykkwsrgyme pgnigngyvs glkvdagvvd ktddmildgi
+       61 vsydraetkn ayigqinmtt assfsgvggt vlgydilrnp evdkakplft ekqwdgselp
+      121 iydakplqdt lveyfgtkdd mrhypapgaf vccankgvta erpkndedmk pgqgygvwsa
+      181 iaisfakdpt kyssmyveda gvwetpnede lieylkgrrn amaksiaacg entagengga
+      241 vftsswigfa hammkpgqvg naitvapyia mpvdsipggs iltpdtdmdi mqnltmpewl
+      301 dkmgyqsltk dgniky
+//
+LOCUS       BAD81027                 321 aa            linear   BCT 21-DEC-2004
+DEFINITION  histidine decarboxylase [Tetragenococcus halophilus].
+ACCESSION   BAD81027
+VERSION     BAD81027.1
+KEYWORDS    .
+SOURCE      Tetragenococcus halophilus
+  ORGANISM  Tetragenococcus halophilus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Tetragenococcus.
+REFERENCE   1
+  AUTHORS   Takahashi,K.
+  TITLE     Cloning and Neucleotides Sequence of Histidine Decarboxylase from
+            Tetragenococcus halophilus
+  JOURNAL   Published Only in Database (2004)
+REFERENCE   2  (residues 1 to 321)
+  AUTHORS   Takahashi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2001) Koji Takahashi, Higeta Shoyu CO.,LTD., R&D
+            Department; Chuo-Cho 2-8, Choshi-Shi, Chiba 288-8680, Japan
+            (E-mail:k-takahashi@higeta.co.jp, URL:http://www.higeta.co.jp,
+            Tel:81-479-25-7423, Fax:81-479-24-3422)
+FEATURES             Location/Qualifiers
+     source          1..321
+                     /organism="Tetragenococcus halophilus"
+                     /db_xref="taxon:51669"
+     Protein         1..321
+                     /product="histidine decarboxylase"
+                     /function="histidine decarboxylation"
+     Region          8..314
+                     /region_name="HDC"
+                     /note="Histidine carboxylase PI chain; cl03540"
+                     /db_xref="CDD:295899"
+     CDS             1..321
+                     /gene="hdcA"
+                     /coded_by="AB076394.1:603..1568"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /transl_table=11
+ORIGIN
+        1 meviimsefd kklntlgvdr isvspykkws rgylepgnvg ngyvsglkvd agvvdktddm
+       61 ildgivsydr aetknayigq inmttassfs gvggtvlgyd ilrnpevdka kplftekqwd
+      121 gselpiydak plqdtlveyf gtkddmrhyp apgafvccan kgvtaerpkn dadmkpgqgy
+      181 gvwsaiaisf akdptkyasm yvedagvwet pnedelieyl kgrrnamaks iaacgentag
+      241 enggavftss wigfahammk pgqvgnaitv apyiampvds ipggsiltpd tdmdimqnlt
+      301 mpewldkmgy qsltkggnin y
+//

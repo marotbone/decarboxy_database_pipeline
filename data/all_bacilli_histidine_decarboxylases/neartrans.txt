@@ -1,0 +1,12 @@
+organism:	decarboxylase_name:	EMBL-ID:	transporter_name:	EMBL-ID:	relative_pos:
+Ligilactobacillus aviarius	histidine decarboxylase	GEK41371.1	arginine/agmatine antiporter	GEK41370.1	downstream -1
+Lactobacillus lindneri DSM 20690 = JCM 11027	histidine decarboxylase	SJZ72010.1	arginine:ornithine antiporter / lysine permease	SJZ71976.1	downstream -1
+Lactobacillus reuteri JCM 1112	histidine decarboxylase	BAG26233.1	arginine-ornithine antiporter	BAG26234.1	upstream +1
+Staphylococcus warneri	histidine decarboxylase	KTW17994.1	arginine:agmatine antiporter	KTW17995.1	upstream +1
+Lactobacillus parabuchneri DSM 5707 = NBRC 107865	histidine decarboxylase	KRM45968.1	histidine histamine antiporter	KRM45969.1	upstream +1
+Lactobacillus fermentum MTCC 8711	histidine decarboxylase	EQC57919.1	arginine:agmatine antiporter	EQC57918.1	downstream -1
+Staphylococcus epidermidis	histidine decarboxylase	BAG55999.1	amino acid permease	BAG56000.1	upstream +1
+Streptococcus thermophilus	histidine decarboxylase	CBK46769.1	histidine-histamine antiporter	CBK46770.1	upstream +1
+Streptococcus thermophilus	histidine decarboxylase	CBK46766.1	histidine-histamine antiporter	CBK46767.1	upstream +1
+Staphylococcus capitis	histidine decarboxylase	CAK55535.1	amino acid permease	CAK55536.1	upstream +1
+Lentilactobacillus buchneri	histidine decarboxylase	CAG44458.1	putative histidine/histamine antiporter	CAG44457.1	downstream -1

@@ -1,0 +1,38 @@
+GEK41371.1	1714316936	BJUI01000001.1	Ligilactobacillus aviarius NBRC 102162 DNA, sequence01, whole genome shotgun sequence
+WP_176008086.1	1861168361	NZ_CP041372.2	Bacillus sp. M4U3P1 chromosome, complete genome
+QKS70042.1	1858370931	CP041372.2	Bacillus sp. M4U3P1 chromosome, complete genome
+WP_134756855.1	1604982845	NZ_MYFO01000043.1	Paenibacillus sp. MEC069 scaffold43.1, whole genome shotgun sequence
+REK60872.1	1447434696	QEWF01000045.1	Cohnella sp. isolate ZCTH4_C NODE_39_length_34809_cov_7.39032, whole genome shotgun sequence
+WP_105957618.1	1360596890	NZ_PVNS01000001.1	Bacillus urumqiensis strain BZ-SZ-XJ18 scaffold1, whole genome shotgun sequence
+PRO67234.1	1357755585	PVNS01000001.1	Bacillus urumqiensis strain BZ-SZ-XJ18 scaffold1, whole genome shotgun sequence
+SJZ72010.1	1152069124	FUXS01000001.1	Lactobacillus lindneri DSM 20690 = JCM 11027 genome assembly, contig: BP43DRAFT_scaffold00001.1, whole genome shotgun sequence
+BAG26233.1	183223999	AP007281.1	Lactobacillus reuteri JCM 1112 DNA, complete genome
+AAX19892.1	60418969	AY800121.1	Tetragenococcus muriaticus strain LMG 18498 histidine decarboxylase (hdc) gene, partial cds
+AAT28193.1	47498596	AY550914.1	Lactobacillus buchneri histidine decarboxylase gene, partial cds
+AAC38298.1	2970111	U58865.1	Oenococcus oeni histidine decarboxylase (hdcA) gene, complete cds; and HdcB (hdcB) gene, partial cds
+ACO35351.1	225904411	FJ794699.1	Lactobacillus rossiae strain ISE 5264 histidine decarboxylase gene, partial cds
+ACO35350.1	225904409	FJ794698.1	Lactobacillus rossiae strain ISE 5263 histidine decarboxylase gene, partial cds
+KTW17994.1	968534636	LDTT01000025.1	Staphylococcus warneri strain SA9 contig_25, whole genome shotgun sequence
+KRM45968.1	948826740	AZGK01000012.1	Lactobacillus parabuchneri DSM 5707 = NBRC 107865 strain DSM 5707 Scaffold12, whole genome shotgun sequence
+CUA78690.1	924442430	LN877765.1	Lactobacillus parabuchneri partial hdcA gene for histidine decarboxylase, strain DSM5987
+CUA78689.1	924442428	LN877764.1	Lactobacillus parabuchneri partial hdcA gene for histidine decarboxylase, strain IPLA11122
+KGH79590.1	692714774	AZKK01000101.1	Oenococcus oeni IOEB_0607 contig00102, whole genome shotgun sequence
+EWM56690.1	757949966	CM003138.1	Streptococcus thermophilus 1F8CT chromosome, whole genome shotgun sequence
+ETE42973.1	576010967	CM002369.1	Streptococcus thermophilus TH1435 chromosome, whole genome shotgun sequence
+EQC57919.1	530795340	AVAB01000110.1	Lactobacillus fermentum MTCC 8711 plasmid pLF01, complete sequence, whole genome shotgun sequence
+AAB59151.1	149550	J02613.1	Lactobacillus 30a histidine decarboxylase gene and mutation
+AAX19893.1	60418971	AY800122.1	Lactobacillus sakei strain LTH 2076 histidine decarboxylase (hdc) gene, partial cds
+AAA81361.1	488594	U09485.1	Leuconostoc oenos 9204 histidine decarboxylase gene, partial cds
+BAG55999.1	324120499	AB583189.1	Staphylococcus epidermidis hdcA, hdcP, pbp4, ccrB, ccrA genes for histidine decarboxylase, amino acid permease, penicillin binding protein 4, cassette chromosome recombinase B, cassette chromosome recombinase A, hypothetical proteins, complete cds, strain: TYH1
+CBK46769.1	306517904	FN686790.1	Streptococcus thermophilus histidine decarboxylation cluster, strain CHCC 6483
+CBK46766.1	306517899	FN686789.1	Streptococcus thermophilus patial hdsR gene and histidine decarboxylation cluster, strain CHCC 1524
+BAJ05382.1	294661747	AB553282.1	Bacillus licheniformis gene for histidine decarboxylase, complete cds
+BAJ05381.1	294661745	AB553281.1	Bacillus coagulans gene for histidine decarboxylase, complete cds
+CAK55535.1	161338456	AM283479.1	Staphylococcus capitis histidine decarboxylase locus (arcA (partial), argR, ORF3, hdcA, hdcP, ORF6 and ORF7 (partial) genes)
+CAH41007.1	75754130	AJ831547.1	Oenococcus oeni hdcA gene for histidine decarboxylase
+CAG44458.1	62550768	AJ749838.1	Lactobacillus buchneri histidine decarboxylase operon (hdcA gene, hdcB gene, hdcC gene and hisS gene)
+BAD81028.1	56744164	AB076394.1	Tetragenococcus halophilus hdcA and hdcB genes for histidine decarboxylasee, complete cds
+BAD81027.1	56744164	AB076394.1	Tetragenococcus halophilus hdcA and hdcB genes for histidine decarboxylasee, complete cds
+BAD51813.1	52693638	AB040487.1	Tetragenococcus muriaticus hdcA, hdcB genes for histidine decarboxylase, complete cds
+BAD51812.1	52693638	AB040487.1	Tetragenococcus muriaticus hdcA, hdcB genes for histidine decarboxylase, complete cds
+BAD18069.1	47076330	AB125629.1	Tetragenococcus muriaticus hdcA gene for histidine decarboxylase, complete cds

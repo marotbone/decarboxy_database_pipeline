@@ -1,0 +1,80 @@
+LOCUS       CM002369             1736780 bp    DNA     circular CON 24-JAN-2014
+DEFINITION  Streptococcus thermophilus TH1435 chromosome, whole genome shotgun
+            sequence.
+ACCESSION   CM002369
+VERSION     CM002369.1
+DBLINK      BioProject: PRJNA225801
+            BioSample: SAMN02401100
+KEYWORDS    WGS.
+SOURCE      Streptococcus thermophilus TH1435
+  ORGANISM  Streptococcus thermophilus TH1435
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1  (bases 1 to 1736780)
+  AUTHORS   Treu,L., Giacomini,A., Corich,V., Vendramin,V. and Bovo,B.
+  TITLE     Genome sequences of Streptococcus thermophilus strains TH1435 and
+            TH1436 isolated from raw goat milk
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1736780)
+  AUTHORS   Treu,L., Giacomini,A., Corich,V., Vendramin,V. and Bovo,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2013) Department of Agronomy Food Natural
+            resources Animals and Environment, University of Padua, Viale
+            dell'University, 16, Legnaro, PD 35020, Italy
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method              :: Velvet v. 1.2.10; Newbler v. 2.8
+            Assembly Name                :: TH1435VE
+            Genome Coverage              :: 134.0x
+            Sequencing Technology        :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 11/14/2013 14:57:09
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            Annotation Method :: Best-placed reference protein set; GeneMarkS+
+            Annotation Software revision :: 2.2 (rev. 417454)
+            Features Annotated :: Gene; CDS; rRNA; tRNA; ncRNA; repeat_region
+            Genes                        :: 1,930
+            CDS                          :: 1,724
+            Pseudo Genes                 :: 164
+            CRISPR Arrays                :: 3
+            rRNAs                        :: 4 (5S, 23S)
+            tRNAs                        :: 37
+            ncRNA                        :: 1
+            Frameshifted Genes           :: 115
+            ##Genome-Annotation-Data-END##
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            Bacteria available from Veneto Agricoltura, Istituto per la
+            Qualita#Aeo e le Tecnologie Agroalimentari, Thiene (VI), Italy.
+            Source DNA available from Alessio Giacomini, DAFNAE, University of
+            Padua,  Viale dell'Universit#, 16, Legnaro (PD) ITALY.
+FEATURES             Location/Qualifiers
+     source          1..1736780
+                     /organism="Streptococcus thermophilus TH1435"
+                     /mol_type="genomic DNA"
+                     /strain="TH1435"
+                     /isolation_source="raw milk"
+                     /host="goat"
+                     /db_xref="taxon:1415776"
+                     /country="Italy: Friuli Venezia Giulia"
+                     /collection_date="01-Apr-2011"
+CONTIG      join(KI928953.1:1..16374,gap(unk100),KI928954.1:1..6626,
+            gap(unk100),KI928955.1:1..44043,gap(unk100),KI928956.1:1..13227,
+            gap(unk100),KI928957.1:1..8397,gap(unk100),KI928958.1:1..48003,
+            gap(unk100),KI928959.1:1..86689,gap(unk100),KI928960.1:1..93997,
+            gap(unk100),KI928961.1:1..39535,gap(unk100),KI928962.1:1..149153,
+            gap(unk100),KI928963.1:1..177797,gap(unk100),KI928964.1:1..41730,
+            gap(unk100),KI928965.1:1..17791,gap(unk100),KI928966.1:1..27831,
+            gap(unk100),KI928967.1:1..2789,gap(unk100),KI928968.1:1..5331,
+            gap(unk100),KI928969.1:1..51766,gap(unk100),KI928970.1:1..65369,
+            gap(unk100),KI928971.1:1..40650,gap(unk100),KI928972.1:1..126635,
+            gap(unk100),KI928973.1:1..71640,gap(unk100),KI928974.1:1..69977,
+            gap(unk100),KI928975.1:1..6580,gap(unk100),KI928976.1:1..145097,
+            gap(unk100),KI928977.1:1..74537,gap(unk100),KI928978.1:1..103383,
+            gap(unk100),KI928979.1:1..2728,gap(unk100),KI928980.1:1..15701,
+            gap(unk100),KI928981.1:1..77633,gap(unk100),KI928982.1:1..4400,
+            gap(unk100),KI928983.1:1..24349,gap(unk100),KI928984.1:1..73910,
+            gap(12))
+//

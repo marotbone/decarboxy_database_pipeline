@@ -1,0 +1,47 @@
+LOCUS       FJ794699                 395 bp    DNA     linear   BCT 24-JUL-2016
+DEFINITION  Lactobacillus rossiae strain ISE 5264 histidine decarboxylase gene,
+            partial cds.
+ACCESSION   FJ794699
+VERSION     FJ794699.1
+KEYWORDS    .
+SOURCE      Furfurilactobacillus rossiae
+  ORGANISM  Furfurilactobacillus rossiae
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Furfurilactobacillus.
+REFERENCE   1  (bases 1 to 395)
+  AUTHORS   Costantini,A., Vaudano,E., Del Prete,V., Danei,M. and
+            Garcia-Moruno,E.
+  TITLE     Biogenic amine production by contaminating bacteria found in starter
+            preparations used in winemaking
+  JOURNAL   J. Agric. Food Chem. 57 (22), 10664-10669 (2009)
+   PUBMED   19919115
+REFERENCE   2  (bases 1 to 395)
+  AUTHORS   Costantini,A., Del Prete,V., Cersosimo,M., Vaudano,E. and
+            Garcia-Moruno,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-FEB-2009) Sec. Microbiology-Molecular Biology,
+            CRA-Centro di Ricerca per l'Enologia, via Pietro Micca 35, Asti, AT
+            14100, Italy
+FEATURES             Location/Qualifiers
+     source          1..395
+                     /organism="Furfurilactobacillus rossiae"
+                     /mol_type="genomic DNA"
+                     /strain="ISE 5264"
+                     /db_xref="taxon:231049"
+     CDS             complement(<1..>395)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="ACO35351.1"
+                     /translation="YGNGYVSGLKVDAGVRDKTDDDVLDGIVSYDRAETKNAYIGQINM
+                     TTASSFSGPQGHIIGYDLLKNPEIDHAKPLFTEKQWDGSELPIYDAKPLQDALVEYFGT
+                     NDERRHYPAPGSFIVCANKGVTAERPK"
+ORIGIN
+        1 tgcttaggtc gttccgcagt aactccctta ttagcacaaa caataaaaga tcctggagct
+       61 ggatagtgcc gacgctcatc atttgtccca aaatattcca ccaacgcatc ttgtagtggc
+      121 ttggcatcat atattggcaa ctcgcttccg tcccattgtt tctctgtaaa taatggcttt
+      181 gcatgatcaa tttccggatt ttttaaaaga tcgtaaccaa taatatgccc ttgcggacct
+      241 gaaaaactag atgctgttgt catgttaatc tgtccgatgt aagcgttctt tgtttcggcc
+      301 cgatcgtatg atacgattcc atccaacacg tcatcatcag ttttatcgcg gacccctgca
+      361 tcaaccttta ggccggaaac atatccatta ccata
+//

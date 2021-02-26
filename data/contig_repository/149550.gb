@@ -1,0 +1,84 @@
+LOCUS       LBAHDC                  1385 bp    DNA     linear   BCT 14-FEB-1996
+DEFINITION  Lactobacillus 30a histidine decarboxylase gene and mutation.
+ACCESSION   J02613
+VERSION     J02613.1
+KEYWORDS    histidine decarboxylase.
+SOURCE      Lactobacillus sp. 30A
+  ORGANISM  Lactobacillus sp. 30A
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus; unclassified Lactobacillus.
+REFERENCE   1  (bases 1 to 46)
+  AUTHORS   Ready,M.P.
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 47 to 1385)
+  AUTHORS   Vanderslice,P., Copeland,W.C. and Robertus,J.D.
+  TITLE     Cloning and nucleotide sequence of wild type and a mutant histidine
+            decarboxylase from Lactobacillus 30a
+  JOURNAL   J. Biol. Chem. 261 (32), 15186-15191 (1986)
+   PUBMED   3021766
+COMMENT     Original source text: Lactobacillus 30a (clone:  pPV[1,2]) (tissue
+            library: ATCC 33222) DNA.
+            Draft entry and sequence for [2] were kindly provided in
+            computer-readable form by M.P.Ready, 26-AUG-1986.
+            Shine-Dalgarno sites were identified at positions 157-162 and
+            1172-1177.
+FEATURES             Location/Qualifiers
+     source          1..1385
+                     /organism="Lactobacillus sp. 30A"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1593"
+                     /clone="pPV[1,2]"
+                     /tissue_lib="ATCC 33222"
+     CDS             170..1105
+                     /note="precursor"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="AAB59151.1"
+                     /translation="MSELDAKLNKLGVDRIAISPYKQWTRGYMEPGNIGNGYVTGLKVD
+                     AGVRDKSDDDVLDGIVSYDRAETKNAYIGQINMTTASSFTGVQGRVIGYDILRSPEVDK
+                     AKPLFTETQWDGSELPIYDAKPLQDALVEYFGTEQDRRHYPAPGSFIVCANKGVTAERP
+                     KNDADMKPGQGYGVWSAIAISFAKDPTKDSSMFVEDAGVWETPNEDELLEYLEGRRKAM
+                     AKSIAECGQDAHASFESSWIGFAYTMMEPGQIGNAITVAPYVSLPIDSIPGGSILTPDK
+                     DMEIMENLTMPEWLEKMGYKSLSANNALKY"
+     mat_peptide     173..415
+                     /product="histidine decarboxylase alpha chain"
+     mat_peptide     416..1102
+                     /product="histidine decarboxylase beta chain"
+     variation       344..346
+                     /note="ggt in wild type; gat in D58"
+                     /replace="gat"
+     CDS             1185..>1385
+                     /note="ORF; putative"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="unknown protein"
+                     /protein_id="AAB59152.1"
+                     /translation="MSNSNYQVSLERIKKVVPEELLTNALLAAIDNSGERMSQIIVDKK
+                     DNGNDYYLTSIHRFFVYSNEEF"
+ORIGIN
+        1 agctaaaaat gatacgtttt tatgaatttg tacaatatat agataaagtt caataaaacg
+       61 ctttactttt ttatttttga ggttataatg aaaatcgtaa aggatgaaag tgttttcgtt
+      121 cattgctatt tcattcttta aagttttatt tttattagga ggtctaatta tgtctgaatt
+      181 agatgcaaaa ctcaataagc ttggtgttga ccgtatcgca attagtccat acaaacaatg
+      241 gactcgtggt tatatggaac caggtaacat tggtaacggc tatgttactg gtttgaaagt
+      301 tgatgctggt gttcgtgaca agtctgatga cgatgtttta gatggtattg tttcttatga
+      361 ccgtgcagaa acaaagaatg cttacattgg tcaaattaat atgaccactg cttcatcatt
+      421 tactggtgta caaggtcgtg tgattggtta tgatattttg cggagcccag aagttgacaa
+      481 ggcaaagcct ttgtttactg aaacacaatg ggatggcagt gaattaccaa tttatgatgc
+      541 aaagccattg caagatgctt tagttgaata ctttggtact gaacaagatc gtcgtcacta
+      601 cccagctcca ggttcattca ttgtttgtgc taacaagggt gttactgctg aacgtccaaa
+      661 gaacgatgct gacatgaagc caggtcaagg ttatggtgta tggtctgcaa ttgctatctc
+      721 ctttgctaag gatcctacta aggactccag catgtttgtt gaagatgctg gtgtttggga
+      781 aacacctaac gaagatgaat tgttagaata ccttgaaggt cgtcgtaagg ctatggcaaa
+      841 gtcaattgct gaatgtggtc aagatgcaca tgcttcattt gaaagttctt ggattggctt
+      901 tgcttacact atgatggaac caggtcaaat tggtaacgca atcactgttg cgccatatgt
+      961 ttcattgcca attgactcaa ttccaggtgg ttcaatctta actccagaca aggacatgga
+     1021 aatcatggaa aaccttacta tgcctgaatg gttggaaaag atgggttaca agtcattaag
+     1081 tgctaataac gctcttaagt actaatccac aggacatagt ttgaggaaga gatggtcttt
+     1141 actacctctt cctttaatat tttgtaagtt aaggattgat tgcaatgagc aacagtaact
+     1201 accaagttag tttagaacga attaaaaaag ttgtccctga agaactctta accaatgcat
+     1261 tgttagcagc tattgacaat tctggtgaaa ggatgtcaca aataatagtc gataaaaaag
+     1321 ataacggcaa cgactattac ctcacctcca tccatagatt cttcgtttat agcaacgaag
+     1381 aattc
+//

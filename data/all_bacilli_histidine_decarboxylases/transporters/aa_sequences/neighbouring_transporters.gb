@@ -1,0 +1,220 @@
+LOCUS       GEK41370.1               486 aa                     UNK 29-JAN-2021
+DEFINITION  arginine/agmatine antiporter.
+ACCESSION   GEK41370
+VERSION     GEK41370.1
+KEYWORDS    .
+SOURCE      ds-1 to GEK41371.1 score=0.80
+  ORGANISM  Ligilactobacillus aviarius
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mdekaskkda gklgliglia lsvsamvgsg vfdlpknmsq vagldaqvla wittgigiwf
+       61 iaemfvilsd vhpelqagly kygevgfgpf vgfftawgyf vcecfanvay avlvmstldy
+      121 ffpgtftggs nwpsvigasi itwlitalvl rgvevsstvq kvataimlav mviflatvav
+      181 hfnahtftmn atathsvasv sdhplgsigh qllntmmitl wlfggiegav vmsgkardpk
+      241 qvpkatvigf ivclvlfaat gilslgafsy gqlakmtsps tayilislwh nnlgrdiitf
+      301 gllvavfssw iswvqmlsel pqhaaeedha fpqvfakksk rnvpivsvlv atvimqiiii
+      361 fahfdnnayq mlltitgtmt vapymvsamy likigakedl fptntkhkri ngliigilaf
+      421 lytvimglaa gvryiaisfi iyaigipvyi warkerhekh ifkigelifa iiivvvaiag
+      481 lyvlik
+//
+LOCUS       SJZ71976.1               484 aa                     UNK 04-MAR-2017
+DEFINITION  arginine:ornithine antiporter / lysine permease.
+ACCESSION   SJZ71976
+VERSION     SJZ71976.1
+KEYWORDS    .
+SOURCE      ds-1 to SJZ72010.1 score=0.60
+  ORGANISM  Lactobacillus lindneri DSM 20690 = JCM 11027
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mnnkkdekig tlgltafvls amvgggiydl pqnmalhagl iaqiiawvis gliiglivks
+       61 flilsqvrpq yttglyhyah agfgnftaff vswgywicqs faiaaysvll mstlnafwpg
+      121 tfsggnnwaa viggslvlwi maslivkgir ttsnvdmlgt vcmllivaff iivmivafnw
+      181 qtfitnpmaa kslpqvddka lgslfsqvkg amlttlwvfs gvesavvlsg naksqkdvrh
+      241 atrdgflicl vlyalvsilp lglksygqla nlsspstagl mqyvmgpvgr liitfgviva
+      301 vlaswlswil vlsempraaa edgtfpkffn kmgkhnvpva sllmtvlviq iiiffthfag
+      361 rafnttltiv atmtvppyli smlflakisa kketfnpagn vvstsrtgaf itsilaivgt
+      421 lfmgytagik yltiafviya igiplfiyar kqyaptkpvf gkfervfaim ivliavmglf
+      481 iifk
+//
+LOCUS       BAG26234.1               484 aa                     UNK 07-OCT-2016
+DEFINITION  arginine-ornithine antiporter.
+ACCESSION   BAG26234
+VERSION     BAG26234.1
+KEYWORDS    .
+SOURCE      us+1 to BAG26233.1 score=0.82
+  ORGANISM  Lactobacillus reuteri JCM 1112
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 madnkpqaek lglvglialc vsamvgsgvf dlpknmsmea gvtaqiiswi itgigiwfia
+       61 emfvilsdvk pdltaglyky aqvgfgsftg ffsawayfvc ecaanaayav lvmstldyff
+      121 pgtftggnnw psvigasiit waitalvlrg vevsstvqki ataimlavvv vflvsvlfhf
+      181 nvhtfttnms athsvpslsd kpmgsvmhqv mntmmvtlwl fggiegavvm sgkaknvkqv
+      241 apatvigfvv clvmyalvgm lslgaysygq lakmtspsta yiltnvwhnn igrdviaial
+      301 lvavfaswis wiqmlaelpq haaaedgsfp rafakvsktg epvfsiiiat ivieiiilia
+      361 hfdesayqml ltivgvmtvp pyllssmyli kisrkehgdf ptdtkhrrga gmaigvlafl
+      421 yilfmaysan ikytlisfif yavgiplymw arhqhgkkif tkgelifaiv ivlvaiygiy
+      481 alih
+//
+LOCUS       KTW17995.1               495 aa                     UNK 22-DEC-2015
+DEFINITION  arginine:agmatine antiporter.
+ACCESSION   KTW17995
+VERSION     KTW17995.1
+KEYWORDS    .
+SOURCE      us+1 to KTW17994.1 score=0.64
+  ORGANISM  Staphylococcus warneri
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 msqqnkninv nntegqkkap kklglwalta vvlsamvggg iydlpknmav hagaigqifa
+       61 wlitgfimwf ivksfmiltd vypeyktgly qyvekgfggy agfftswgyw icecfanvty
+      121 svllmstldf ffpgkftggn nigsiiggsi ilwlmsllil ngvkaassve iagtvgmlit
+      181 taiflvvmai sfnwgnfttn ifanhaiphl ndkdlgslqh qisstmmttl wvfggvegav
+      241 vlsdkaksqd evkkathlgf iiclilyala tllplglksy gqiasmksps sgvllsivig
+      301 pagriiiaig vivailaswl twtlmlsemp yaaakakhfp kqfaktnknd ipyvslitss
+      361 iimeiiiilt hfstqafntm ltivgtmtvp pyllsilflv kssykkenwp ghhhysrkya
+      421 lfigiialig iiymgisagi kytvisfiiy algipfyiya rrqfqpnekv ftkiekgfai
+      481 aivlvaivgi fivif
+//
+LOCUS       KRM45969.1               488 aa                     UNK 06-NOV-2015
+DEFINITION  histidine histamine antiporter.
+ACCESSION   KRM45969
+VERSION     KRM45969.1
+KEYWORDS    .
+SOURCE      us+1 to KRM45968.1 score=1.00
+  ORGANISM  Lactobacillus parabuchneri DSM 5707 = NBRC 107865
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mddaerakka eagkmgfvgl valcvsamvg sgvfdlpknm sqvagvtaqm lawittaigi
+       61 wfiaetfvil sdvkpdlqag lykygevgfg pftgfftawg yfvcecaana ayavltmstl
+      121 dyffpgtftg gnnwpsviga siitwaltal vlrgvevsss vqkfataiml avvvvflvtv
+      181 iahfnlntft tnanatqsip srgdkpmgsv mhqlmstmmv tlwlfggveg avvmsgkarn
+      241 prqvpkatit gfiiciimyt lvgmlslgvy sygqlahlts pstayiltdl whstigrdvi
+      301 tvallfavfs swiswiqmla elpqhaased gafprafahv skrnvpdfsv imatlviqvi
+      361 iiiahfdlna yqmlltvvgt mtvppylise mylikisrkk gefdsaakhs prkaliiall
+      421 afaytlimgi sagirytaia fiayalgipf yiwarkqykk vmftkgeavf aviivavaiy
+      481 gvyalias
+//
+LOCUS       EQC57918.1               485 aa                     UNK 19-AUG-2013
+DEFINITION  arginine:agmatine antiporter.
+ACCESSION   EQC57918
+VERSION     EQC57918.1
+KEYWORDS    .
+SOURCE      ds-1 to EQC57919.1 score=0.80
+  ORGANISM  Lactobacillus fermentum MTCC 8711
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 madsdksqaa klglmglial cvsamvgsgv fdlpknmsme agltaqiisw vitgigiwfi
+       61 aqmfvilsdv kpdltaglyk yaqvgfgsfs gyftawayfv cecaanaaya vltmstldyf
+      121 fpgtftggnn wpsvigasii twaitalvlr gvevsskvqq vatvvmlavv cvfivtviah
+      181 fnfhtftlna dasrsissvs dkalgsvthq vmntmmvtlw lfggiegavv msgkarnvkq
+      241 vptatitgfi iclvmyalvg tlslgaysyg qlakmtspst ayiltdlwhs tlgrdvitia
+      301 llfavfsswi swiqmlaelp qhaakedgsf pkafaktnks gtpafsiiva tvvieiiili
+      361 ahfdesayqm lltivgvmti ppylfsamyl ikislpssne fptntkhrqw agltmgilaf
+      421 ayiifmafsa nikytlisfi fyaagiplym warhqhgkqi ftkselifai vivlvaiygi
+      481 ydlvh
+//
+LOCUS       BAG56000.1               495 aa                     UNK 19-APR-2011
+DEFINITION  amino acid permease.
+ACCESSION   BAG56000
+VERSION     BAG56000.1
+KEYWORDS    .
+SOURCE      us+1 to BAG55999.1 score=0.64
+  ORGANISM  Staphylococcus epidermidis
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 msqqnknini nntegqkkap kklglwalta vvlsamvggg iydlpqnmav hagaigqifa
+       61 wlitgfimwf ivksfmiltd vypeyktgly qyvekgfggy agfftswgyw icecfanvty
+      121 svllmstldf ffpgkftggn nigsiiggsi ilwlmsllil ngvkaassve iagtvgmlit
+      181 taiflvvmai sfnwgnfttn mfanhaiphl ndkdlgslqh qisstmmttl wvfggvegav
+      241 vlsdkaksqd evkkathlgf iiclilyala tllplglksy gqiasmksps sgvllsivig
+      301 pagriiiaig vivailaswl twtlmlsemp yaaakakhfp kqfaktnknd ipyvslitss
+      361 iimeiiiilt hfstqafntm ltivgtmtvp pyllsilflv kssykkenwp ghhhysrkya
+      421 lfigiialig iiymgisagi kytvisfiiy algipfyiya rrqfqpnekv ftkiekgfai
+      481 aivlvaivgi fivif
+//
+LOCUS       CBK46770.1               490 aa                     UNK 09-SEP-2010
+DEFINITION  histidine-histamine antiporter.
+ACCESSION   CBK46770
+VERSION     CBK46770.1
+KEYWORDS    .
+SOURCE      us+1 to CBK46769.1 score=0.61
+  ORGANISM  Streptococcus thermophilus
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 msnldeqnvk ntskkntvgv lgliafvlsa mvgggiydlp qnmainagqi gqilswiltg
+       61 liiwfiarsf miltdafpsy ktglylyaga gfgrfagffv swgywicecf anvayavllm
+      121 stidtffpst fnggkrvaai iggsiilwlm silinqgikg aswvdmlgtl gmllsvtifl
+      181 vvmaihfkws tfnvnmladk alpqlqdksl gslldqvknt mmttlwvfgg iegavvlsdr
+      241 srspqdvvka tkygfllcll lyaaasllpl giasygqian mtapssaqll etqigvtgrl
+      301 vitfgviiav lsswltwtlm lsempyaaak agnfpkqfaq enqhkipsfs lmastivmqv
+      361 ilistyflgh afnsmlnivg tmtvppylis mlflvktawk detwptvati srkralttgi
+      421 fallgilfmg yaagirytti sfiiyalgip ffllarhqfa ptekpmtkge lifagailav
+      481 aiiglillfv
+//
+LOCUS       CBK46767.1               490 aa                     UNK 25-JUL-2016
+DEFINITION  histidine-histamine antiporter.
+ACCESSION   CBK46767
+VERSION     CBK46767.1
+KEYWORDS    .
+SOURCE      us+1 to CBK46766.1 score=0.61
+  ORGANISM  Streptococcus thermophilus
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 msnldeqnvk ntskkntvgv lgliafvlsa mvgggiydlp qnmainagqi gqilswiltg
+       61 liiwfiarsf mfltdafpsy ktglylyaga gfgrfagffv swgywicecf anvayavllm
+      121 stidtffpst fnggkrvaai iggsiilwlm silinqgikg aswvemlgtl gmllsvtifl
+      181 vvmaihfkws afnvnmladk alpqlqdksl gslldqvknt mmttlwvfgg iegavvlsdr
+      241 srspqdvvra tkygfllcll lyaaasllpl giasygqian mtapssaqll etqigvtgrl
+      301 vitfgviiav lsswltwtlm lsempyaaak agnfpkqfaq enqhkipsfs lmastivmqv
+      361 ilistyflgh afnsmlnivg tmtvppylis mlflvktawk detwptvati srkralttgi
+      421 fallgilfmg yaagirytti sfiiyalgip ffllarhqfa ptekpmtkge lifagailav
+      481 aiiglillfv
+//
+LOCUS       CAK55536.1               495 aa                     UNK 26-JUL-2016
+DEFINITION  amino acid permease.
+ACCESSION   CAK55536
+VERSION     CAK55536.1
+KEYWORDS    .
+SOURCE      us+1 to CAK55535.1 score=0.64
+  ORGANISM  Staphylococcus capitis
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 msqqkensnl nntenqkngs kklglwalta vvlsamvggg iydlpqnmav hagvigqifa
+       61 wlitgfimwf ivksfmiltd iypeyktgly qyvekgfggy agfftswgyw icecfanvty
+      121 svllmstldf ffpgkftggn nigsiiggsi ilwlmsllil ngvktassve iagtvgmllt
+      181 taiflvvmai sfnwgsfttn mfanhavphl ndrdlgslqh qisstmmttl wvfggvegav
+      241 vlsdkaksqd evkkathlgf viclilyala tllplglksy gqiaamqsps sgvllsivig
+      301 pagriiiavg vivailaswl twtlmlsemp yaaakakhfp kqfartnkne ipyvslitss
+      361 iimeiiiilt hfstqafntm ltivgtmtvp pyllsilflv kssykkenwp ghhqysrkya
+      421 liigiialcg imymgisagi kytvisfiiy algipfyiya rhqfqpnekv ftkvetgfai
+      481 aivliaiigv fiviv
+//
+LOCUS       CAG44457.1               488 aa                     UNK 13-APR-2005
+DEFINITION  putative histidine/histamine antiporter.
+ACCESSION   CAG44457
+VERSION     CAG44457.1
+KEYWORDS    .
+SOURCE      ds-1 to CAG44458.1 score=1.00
+  ORGANISM  Lentilactobacillus buchneri
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mddaerakka eagkmgfvgl valcvsamvg sgvfdlpknm sqvagvtaqm lawittaigi
+       61 wfiaetfvil sdvkpdlqag lykygevgfg pftgfftawg yfvcecaana ayavltmstl
+      121 dyffpgtftg gnnwpsviga siitwaltal vlrgvevsss vqkfataiml avavvflvtv
+      181 iahfnlntft tnanatqsip srgdkpmgsv mhqlmstmmv tlwlfggveg avvmsgkarn
+      241 prqvpkatit gfiiciimyt lvgmlslgvy sygqlahlts pstayiltdl whstigrdvi
+      301 tvallfavfs swiswiqmla elpqhaased gafprafahv skrnvpdfsv imatlviqvi
+      361 iiiahfdlna yqmlltvvgt mtvppylise mylikisrkk gefdsaakhs prkaliiall
+      421 afaytlimgi sagirytaia fiayalgipf yiwarkqykk vmftkgeavf aviivavaiy
+      481 gvyalias
+//

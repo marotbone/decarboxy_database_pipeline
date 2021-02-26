@@ -1,0 +1,97 @@
+LOCUS       AB040487                2506 bp    DNA     linear   BCT 25-SEP-2004
+DEFINITION  Tetragenococcus muriaticus hdcA, hdcB genes for histidine
+            decarboxylase, complete cds.
+ACCESSION   AB040487
+VERSION     AB040487.1
+KEYWORDS    .
+SOURCE      Tetragenococcus muriaticus
+  ORGANISM  Tetragenococcus muriaticus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Tetragenococcus.
+REFERENCE   1
+  AUTHORS   Takahashi,K., Shida,O. and Takagi,H.
+  TITLE     Nucleotide Sequence of Histidine Decarboxylase from Tetragenococcus
+            muriaticus
+  JOURNAL   Published Only in Database (2004)
+REFERENCE   2  (bases 1 to 2506)
+  AUTHORS   Takahashi,K., Shida,O. and Takagi,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2000) Koji Takahashi, Higeta Shoyu CO.,LTD, R&D
+            Department; 2-8 Chuo-cho, Chosi, Chiba 288-8680, Japan
+            (E-mail:k-takahashi@higeta.co.jp, URL:http://www.higeta.co.jp,
+            Tel:81-479-25-7423, Fax:81-479-24-3422)
+FEATURES             Location/Qualifiers
+     source          1..2506
+                     /organism="Tetragenococcus muriaticus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:64642"
+     gene            504..1454
+                     /gene="hdcA"
+     CDS             504..1454
+                     /gene="hdcA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="BAD51812.1"
+                     /translation="MSEFDKKLNTLGVDRISVSPYKKWSRGYLEPGNVGNGYVSGLKVD
+                     AGVVDKTDDMILDGIVSYDRAETKNAYIGQINMTTASSFSGVGGTVLGYDILRNPEVDK
+                     AKPLFTEKQWDGSELPIYDAKPLQDNLVEYFGTKDDMRHYPAPGAFVCCANKGVTAERP
+                     KNDADMKPGQGYGVWSAIAISFAKDPTKYASMYVEDAGVWETPNEDELIEYLKGRRNAM
+                     AKSIAACGEHTAGENGGAVFTSSWIGFAHAMMKPGQVGNAITVAPYIAMPVDSIPGGSI
+                     LTPDTDMDIMQNLTMPEWLDKMGYQSLTKGGNINY"
+     gene            1488..2012
+                     /gene="hdcB"
+     CDS             1488..2012
+                     /gene="hdcB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="BAD51813.1"
+                     /translation="MINVSDANNTTVQSVISYESMPDFVGKYLSDIPDKISQVILNQRS
+                     NGSEIYLTSMKNVYLLTAHGISAMKKEAVQSAHFEKGAPHGSITITFKDGSVWNPTDII
+                     YGRAFDFVQDTKPRDINIAGYDHTVRGEFPQLLDPDHAEEVDKLRKWMQDGHISHYQYD
+                     DANPVLPKAGK"
+ORIGIN
+        1 aatgataatt gctgggcttg cgctagcata cacccctgat catgggtgta tccgccaggt
+       61 attaagacac ggcaattgca ttcattgcgt atgcaattgg aattccattc tatatttggg
+      121 ccggaaacaa tataccaagc ctatgtttac caaaggtgaa gcagatttgc tattataatt
+      181 gtcgctgtgg ctgtttatgg gatttatgca ttaatggctt aaaattcatt accaataact
+      241 acaaatcata ctttgtgtat tctatttgag aaaagacgct atgaaatgac cgtttccagc
+      301 gtcttttctt ttgcctgaaa agattgatga ttcgcggcaa caaagggtcc tggagcgatc
+      361 aaaaaattaa atagtgatta gaaagcgatt atatttctat caattttcat tctgatattg
+      421 taaaaaaatg aacaggtggt aacatgtact tgtaaacaga aataaagcgc ttttctttat
+      481 tttttaaaat ggaggtaaca attatgtcag agtttgataa aaagttgaac acacttgggg
+      541 ttgaccgtat ctcagtgagt ccatacaaga aatggtctag agggtatctt gaaccaggaa
+      601 acgttggtaa tggatatgtt tcaggactta aagtagatgc tggtgtcgtt gataaaaccg
+      661 atgatatgat ccttgatggt attgtttcgt atgaccgtgc ggaaacaaag aatgcctata
+      721 ttggacaaat caacatgact actgcatcaa gtttctctgg tgttggtgga actgttcttg
+      781 gttatgacat ccttcgtaac cctgaagttg acaaagctaa gccattattt actgaaaaac
+      841 aatgggacgg tagtgaactt ccaatttacg atgcaaagcc tttacaagat aatttagttg
+      901 aatactttgg tactaaagac gatatgcgtc actatcctgc tccaggtgca tttgtatgct
+      961 gtgccaacaa aggtgtaact gcagaacgtc caaagaacga tgcagatatg aagcctggtc
+     1021 aaggatatgg tgtttggtca gcaatcgcaa tttcatttgc aaaggatcca actaagtacg
+     1081 caagtatgta cgttgaagat gctggtgttt gggagactcc taacgaagat gaattgattg
+     1141 aatatcttaa gggccgtcgt aatgcaatgg ctaagtcaat tgcagcctgt ggcgaacaca
+     1201 ctgccggcga aaatggtggt gccgtattca caagctcatg gattggattt gcacatgcaa
+     1261 tgatgaagcc aggacaagtt ggtaatgcaa ttactgttgc tccttatatt gcaatgcctg
+     1321 ttgattcaat tccaggtggc tcaattctta cacctgatac tgacatggat attatgcaga
+     1381 atcttactat gccagaatgg cttgacaaga tgggttacca atcattaact aagggtggaa
+     1441 acatcaatta ttaatttgga ttccacttta aggcttggga gataattatg attaatgtga
+     1501 gtgatgctaa caatactact gttcaatctg tcatttctta tgagtctatg cctgactttg
+     1561 ttgggaaata tctgtcagat attcctgata aaataagtca agtcattctg aatcagcgat
+     1621 ctaatggaag cgagatatat cttacttcta tgaagaatgt ttatctcctt actgcacatg
+     1681 gaatctccgc aatgaagaaa gaggcagtac agagtgctca cttcgaaaag ggtgcaccgc
+     1741 atggatctat caccattacc tttaaagatg ggtctgtatg gaatccgaca gacataattt
+     1801 atggacgtgc ttttgatttt gttcaagata caaagccgcg ggatattaac atcgctggtt
+     1861 acgatcatac cgttagaggc gagttcccac agctacttga tcctgatcat gctgaggaag
+     1921 ttgataaatt acgcaaatgg atgcaggatg gacacattag tcattatcaa tatgatgatg
+     1981 ctaatcctgt gctgcccaag gctggtaagt aaattttgta acggtatttt ggaatgcaat
+     2041 agaattttaa cttttctatt gactttctaa taaaagcagg tatcatatag ttaattagtt
+     2101 ttgattagat aaaagaacat tgttgtaatt caaaagagat ccaacacagg ctgaaagttg
+     2161 gttaacaatg taagtcacat ctatgaacta aaacttgtga aatcaaagta gcgagtttcg
+     2221 ccaagtgcgt tataacttgt aggttcaccc ctttcattta tatgtggacc tactgaggca
+     2281 atgttcgtga ggacattgca aaactgaggt ggaaccgcga tagaacgccc tctagagtat
+     2341 atgactctgg agggcgttat tttattatag aaagggagaa ttgttatgac tgatgtaaat
+     2401 taccaaagac taaaaggaac tgtagatatt ttacctggag aaatcgaagt atggcaaaag
+     2461 gttgaaaaaa ttgcacgtga tacctttaac cagtttggat acctgc
+//

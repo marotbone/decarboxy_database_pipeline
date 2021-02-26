@@ -1,0 +1,91 @@
+LOCUS       CM003138             1736449 bp    DNA     circular CON 18-FEB-2015
+DEFINITION  Streptococcus thermophilus 1F8CT chromosome, whole genome shotgun
+            sequence.
+ACCESSION   CM003138
+VERSION     CM003138.1
+DBLINK      BioProject: PRJNA231319
+            BioSample: SAMN02442659
+KEYWORDS    WGS.
+SOURCE      Streptococcus thermophilus 1F8CT
+  ORGANISM  Streptococcus thermophilus 1F8CT
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1  (bases 1 to 1736449)
+  AUTHORS   Treu,L., Vendramin,V., Bovo,B., Campanaro,S., Corich,V. and
+            Giacomini,A.
+  TITLE     Genome Sequences of Four Italian Streptococcus thermophilus Strains
+            of Dairy Origin
+  JOURNAL   Genome Announc 2 (2), e00126-14 (2014)
+   PUBMED   24625867
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1736449)
+  AUTHORS   Treu,L., Giacomini,A., Corich,V., Vendramin,V. and Bovo,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-DEC-2013) Department of Agronomy Food Natural
+            resources Animals and Environment, University of Padua, Viale
+            dell'Universita, 16, Legnaro, PD 35020, Italy
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method              :: Velvet v. 1.2.10; ABySS v. 1.3.5
+            Assembly Name                :: 1F8CTVE
+            Genome Coverage              :: 261.0x
+            Sequencing Technology        :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 12/30/2013 12:25:34
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            Annotation Method :: Best-placed reference protein set; GeneMarkS+
+            Annotation Software revision :: 2.3 (rev. 422554)
+            Features Annotated :: Gene; CDS; rRNA; tRNA; ncRNA; repeat_region
+            Genes                        :: 1,956
+            CDS                          :: 1,765
+            Pseudo Genes                 :: 139
+            CRISPR Arrays                :: 3
+            rRNAs                        :: 7 (5S, 16S, 23S)
+            tRNAs                        :: 44
+            ncRNA                        :: 1
+            Frameshifted Genes           :: 105
+            ##Genome-Annotation-Data-END##
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            Bacteria available from Veneto Agricoltura, Istituto per la Qualita
+            e le Tecnologie Agroalimentari, Thiene (VI), Italy. Source DNA
+            available from Alessio Giacomini, DAFNAE, University of Padua,
+            Viale dell'Universita, 16, Legnaro (PD) Italy.
+FEATURES             Location/Qualifiers
+     source          1..1736449
+                     /organism="Streptococcus thermophilus 1F8CT"
+                     /mol_type="genomic DNA"
+                     /strain="1F8CT"
+                     /isolation_source="curd"
+                     /db_xref="taxon:1435981"
+                     /country="Italy: Veneto"
+                     /collection_date="12-Nov-2012"
+CONTIG      join(KN848378.1:1..17781,gap(unk100),KN848379.1:1..1275,
+            gap(unk100),KN848380.1:1..767,gap(unk100),KN848381.1:1..2026,
+            gap(unk100),KN848382.1:1..796,gap(unk100),KN848383.1:1..3927,
+            gap(unk100),KN848384.1:1..38481,gap(unk100),KN848385.1:1..52560,
+            gap(unk100),KN848386.1:1..26036,gap(unk100),KN848387.1:1..5343,
+            gap(unk100),KN848388.1:1..36431,gap(unk100),KN848389.1:1..6304,
+            gap(unk100),KN848390.1:1..47966,gap(unk100),KN848391.1:1..19118,
+            gap(unk100),KN848392.1:1..29164,gap(unk100),KN848393.1:1..5709,
+            gap(unk100),KN848394.1:1..39514,gap(unk100),KN848395.1:1..19240,
+            gap(unk100),KN848396.1:1..42539,gap(unk100),KN848397.1:1..42852,
+            gap(unk100),KN848398.1:1..123976,gap(unk100),KN848399.1:1..33407,
+            gap(unk100),KN848400.1:1..20425,gap(unk100),KN848401.1:1..26578,
+            gap(unk100),KN848402.1:1..61549,gap(unk100),KN848403.1:1..555,
+            gap(unk100),KN848404.1:1..17790,gap(unk100),KN848405.1:1..9257,
+            gap(unk100),KN848406.1:1..29291,gap(unk100),KN848407.1:1..40583,
+            gap(unk100),KN848408.1:1..15696,gap(unk100),KN848409.1:1..92425,
+            gap(unk100),KN848410.1:1..11067,gap(unk100),KN848411.1:1..12309,
+            gap(unk100),KN848412.1:1..241087,gap(unk100),KN848413.1:1..3507,
+            gap(unk100),KN848414.1:1..63488,gap(unk100),KN848415.1:1..8058,
+            gap(unk100),KN848416.1:1..7513,gap(unk100),KN848417.1:1..29928,
+            gap(unk100),KN848418.1:1..4641,gap(unk100),KN848419.1:1..44824,
+            gap(unk100),KN848420.1:1..8779,gap(unk100),KN848421.1:1..56117,
+            gap(unk100),KN848422.1:1..39347,gap(unk100),KN848423.1:1..119999,
+            gap(unk100),KN848424.1:1..1079,gap(unk100),KN848425.1:1..102945,
+            gap(unk100),KN848426.1:1..2073,gap(unk100),KN848427.1:1..23278,
+            gap(unk100),KN848428.1:1..42037,gap(12))
+//

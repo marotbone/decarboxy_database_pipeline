@@ -1,0 +1,91 @@
+LOCUS       AZKK01000101             590 bp    DNA     linear   BCT 01-OCT-2014
+DEFINITION  Oenococcus oeni IOEB_0607 contig00102, whole genome shotgun
+            sequence.
+ACCESSION   AZKK01000101
+VERSION     AZKK01000101.1
+DBLINK      BioProject: PRJNA229529
+            BioSample: SAMN02902414
+KEYWORDS    WGS.
+SOURCE      Oenococcus oeni IOEB_0607
+  ORGANISM  Oenococcus oeni IOEB_0607
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Oenococcus.
+REFERENCE   1  (bases 1 to 590)
+  AUTHORS   Dimopoulou,M., Vuillemin,M., Campbell-Sills,H., Lucas,P.M.,
+            Ballestra,P., Miot-Sertier,C., Favier,M., Coulon,J., Moine,V.,
+            Doco,T., Roques,M., Williams,P., Petrel,M., Gontier,E., Moulis,C.,
+            Remaud-Simeon,M. and Dols-Lafargue,M.
+  TITLE     Exopolysaccharide (EPS) synthesis by Oenococcus oeni: from genes to
+            phenotypes
+  JOURNAL   PLoS ONE 9 (6), E98898 (2014)
+   PUBMED   24901216
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 590)
+  AUTHORS   Campbell-Sills,H., Favier,M., El Khouri,M., Dols-Lafargue,M. and
+            Lucas,P.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2013) Microbiologie du Raisin et du Vin, Institut
+            des Sciences de la Vigne et du Vin, 210 Chemin de Leysotte,
+            Bordeaux, Aquitaine 33882, France
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method              :: Newbler v. 2.3
+            Assembly Name                :: Oeoe_IOEB_0607_1.0
+            Genome Coverage              :: 32.85x
+            Sequencing Technology        :: 454
+            ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 07/07/2014 12:13:29
+            Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline
+            Annotation Method :: Best-placed reference protein set; GeneMarkS+
+            Annotation Software revision :: 2.6 (rev. 439576)
+            Features Annotated :: Gene; CDS; rRNA; tRNA; ncRNA; repeat_region
+            Genes                        :: 1,809
+            CDS                          :: 1,599
+            Pseudo Genes                 :: 164
+            rRNAs                        :: 3 (5S, 16S, 23S)
+            tRNAs                        :: 43
+            ncRNA                        :: 0
+            Frameshifted Genes           :: 126
+            ##Genome-Annotation-Data-END##
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+FEATURES             Location/Qualifiers
+     source          1..590
+                     /organism="Oenococcus oeni IOEB_0607"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="contig00102"
+                     /strain="IOEB_0607"
+                     /isolation_source="Red wine"
+                     /db_xref="taxon:1428413"
+                     /country="France"
+                     /collection_date="2006"
+     gene            <1..>590
+                     /locus_tag="X281_09040"
+     CDS             <1..>590
+                     /locus_tag="X281_09040"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:SwissProt:P00862.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="KGH79590.1"
+                     /translation="VGNGYVSGLKVDAGVIDKTDDMILDGIVSYDRAETKNAYIGQINM
+                     TTASSFSGVGGTVLGYDILRNPEVDKAKPLFTEKQWDGSELPIYDAKPLQDTLVEYFGT
+                     KDDMRHYPAPGAFVCCANKGVTAERPKNDADMKPGQGYGVWSAIAISFAKDPTKYSSMY
+                     VEDAGVWETPNEDELIEYLKGRRNAMAKSIAACG"
+ORIGIN
+        1 gttggtaatg gatatgtttc aggacttaaa gtagatgctg gtgtcattga taaaaccgat
+       61 gatatgatcc ttgatggtat tgtttcgtat gaccgtgcgg aaacaaagaa tgcctatatt
+      121 ggacaaatca acatgactac tgcatcaagt ttctctggtg ttggtggaac tgttcttggt
+      181 tatgacatcc ttcgtaaccc tgaagttgac aaagctaagc cattatttac tgaaaaacaa
+      241 tgggacggta gtgaacttcc aatttacgat gcaaagcctt tacaagatac tttagttgaa
+      301 tactttggta ctaaagacga tatgcgtcac tatcctgctc caggtgcatt tgtatgctgt
+      361 gccaacaaag gtgtaactgc agaacgtcca aagaacgatg cagatatgaa gcctggtcaa
+      421 ggatatggtg tttggtcagc aatcgcaatt tcatttgcaa aggatccaac taagtactca
+      481 agtatgtatg ttgaagatgc tggtgtttgg gagactccta acgaagatga attgattgaa
+      541 tatcttaagg gccgtcgtaa tgcaatggct aagtcaattg cagcctgtgg
+//

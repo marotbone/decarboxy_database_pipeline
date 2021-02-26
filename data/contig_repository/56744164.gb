@@ -1,0 +1,105 @@
+LOCUS       AB076394                2600 bp    DNA     linear   BCT 21-DEC-2004
+DEFINITION  Tetragenococcus halophilus hdcA and hdcB genes for histidine
+            decarboxylasee, complete cds.
+ACCESSION   AB076394
+VERSION     AB076394.1
+KEYWORDS    .
+SOURCE      Tetragenococcus halophilus
+  ORGANISM  Tetragenococcus halophilus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Tetragenococcus.
+REFERENCE   1
+  AUTHORS   Takahashi,K.
+  TITLE     Cloning and Neucleotides Sequence of Histidine Decarboxylase from
+            Tetragenococcus halophilus
+  JOURNAL   Published Only in Database (2004)
+REFERENCE   2  (bases 1 to 2600)
+  AUTHORS   Takahashi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2001) Koji Takahashi, Higeta Shoyu CO.,LTD., R&D
+            Department; Chuo-Cho 2-8, Choshi-Shi, Chiba 288-8680, Japan
+            (E-mail:k-takahashi@higeta.co.jp, URL:http://www.higeta.co.jp,
+            Tel:81-479-25-7423, Fax:81-479-24-3422)
+FEATURES             Location/Qualifiers
+     source          1..2600
+                     /organism="Tetragenococcus halophilus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:51669"
+     gene            603..1568
+                     /gene="hdcA"
+     CDS             603..1568
+                     /gene="hdcA"
+                     /function="histidine decarboxylation"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="BAD81027.1"
+                     /translation="MEVIIMSEFDKKLNTLGVDRISVSPYKKWSRGYLEPGNVGNGYVS
+                     GLKVDAGVVDKTDDMILDGIVSYDRAETKNAYIGQINMTTASSFSGVGGTVLGYDILRN
+                     PEVDKAKPLFTEKQWDGSELPIYDAKPLQDTLVEYFGTKDDMRHYPAPGAFVCCANKGV
+                     TAERPKNDADMKPGQGYGVWSAIAISFAKDPTKYASMYVEDAGVWETPNEDELIEYLKG
+                     RRNAMAKSIAACGENTAGENGGAVFTSSWIGFAHAMMKPGQVGNAITVAPYIAMPVDSI
+                     PGGSILTPDTDMDIMQNLTMPEWLDKMGYQSLTKGGNINY"
+     gene            1602..2126
+                     /gene="hdcB"
+     CDS             1602..2126
+                     /gene="hdcB"
+                     /function="histidine decarboxylation"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="BAD81028.1"
+                     /translation="MINVSDANNTTVQSVISYESMPDFVGKYLSDIPDKISQVILNQRS
+                     NGSEIYLTSMKNVYLLTAHGISAMKKEAVQSAHFEKGAPHGSITITFKDGSVWNPTDII
+                     YGRAFDFVQDTKPRDINIAGYDHTVRGEFPQLLDPDHAEEVDKLRKWMQDGHISHYQYD
+                     DANPVLPKAGK"
+ORIGIN
+        1 cggttccacc atatttaatt tcagaaatgt atcttatcaa gatcagtcgt aaggatggcg
+       61 agtttgcaaa gggagcaaaa cactctccac gaaaagcaat gataatgctg tgcttgcgct
+      121 agcatacaca ctgatcatgg gtgtatccgc aggtattaag tacacggcaa ttgcattcat
+      181 tgcgtatgca attggaattc cattctatat ttgggcacgg aaacaatata acaagcctat
+      241 gtttaccaaa ggtgaagcag tatttgctat tataattgtc gctgtggctg tttatgggat
+      301 ttatgcatta atggcttaaa attcattacc aataactaca aatcatactt tgtgtattct
+      361 atttgagaaa agacgctatg aaatgaccgt ttccagcgtc ttttcttttg cctgaaaaga
+      421 ttgatgattc gcggcaacaa agggtcctgg agcgatcaaa aaattaaata gtgattagaa
+      481 agcgattata tttctatcaa ttttcattct gatattgtaa aaaaatgaac aggtggtaac
+      541 atgtacttgt aaacagacat agagcgcttt tcttgtggtt ttgattttct ttatttttta
+      601 aaatggaggt aataattatg tcagagtttg ataaaaagtt gaacacactt ggggttgacc
+      661 gtatctcagt gagtccatac aagaaatggt ctagagggta tcttgaacca ggaaacgttg
+      721 gtaatggata tgtttcagga cttaaagtag atgctggtgt cgttgataaa accgatgata
+      781 tgatccttga tggtattgtt tcgtatgacc gtgcggaaac aaagaatgcc tatattggac
+      841 aaatcaacat gactactgca tcaagtttct ctggtgttgg tggaactgtt cttggttatg
+      901 acatccttcg taaccctgaa gttgacaaag ctaagccatt atttactgaa aaacaatggg
+      961 acggtagtga acttccaatt tacgatgcaa agcctttaca agatacttta gttgaatact
+     1021 ttggtactaa agacgatatg cgtcactatc ctgctccagg tgcatttgta tgctgtgcca
+     1081 acaaaggtgt aactgcagaa cgtccaaaga acgatgcaga tatgaagcct ggtcaaggat
+     1141 atggtgtttg gtcagcaatc gcaatttcat ttgcaaagga tccaactaag tacgcaagta
+     1201 tgtacgttga agatgctggt gtttgggaga ctcctaacga agatgaattg attgaatatc
+     1261 ttaagggccg tcgtaatgca atggctaagt caattgcagc ctgtggcgaa aacactgccg
+     1321 gcgaaaatgg tggtgccgta ttcacaagct catggattgg atttgcacat gcaatgatga
+     1381 agccaggaca agttggtaat gcaattactg ttgctcctta tattgcaatg cctgttgatt
+     1441 caattccagg tggctcaatt cttacacctg atactgacat ggatattatg cagaatctta
+     1501 ctatgccaga atggcttgac aagatgggtt accaatcatt aactaagggt ggaaacatca
+     1561 attattaatt tggattccac tttaaggctt gggagataat tatgattaat gtgagtgatg
+     1621 ctaacaatac tactgttcaa tctgtcattt cttatgagtc tatgcctgac tttgttggga
+     1681 aatatctgtc agatattcct gataaaataa gtcaagtcat tctgaatcag cgatctaatg
+     1741 gaagcgagat atatcttact tctatgaaga atgtttatct ccttactgca catggaatct
+     1801 ccgcaatgaa gaaagaggca gtacagagtg ctcacttcga aaagggtgca ccgcatggat
+     1861 ctatcaccat tacctttaaa gatgggtctg tatggaatcc gacagacata atttatggac
+     1921 gtgcttttga ttttgttcaa gatacaaagc cgcgggatat taacatcgct ggttacgatc
+     1981 ataccgttag aggcgagttc ccacagctac ttgatcctga tcatgctgag gaagttgata
+     2041 aattacgcaa atggatgcag gatggacaca ttagtcatta tcaatatgat gatgctaatc
+     2101 ctgtgctgcc caaggctggt aagtaaattt tgtaacggta ttttggaatg caatagaatt
+     2161 ttaacttttc tattgacttt ctaataaaag caggtatcat atagttaatt agttttgatt
+     2221 agataaaaga acattgttgt aattcaaaag agatccaaca caggctgaaa gttggttaac
+     2281 aatgtaagtc acatctatga actaaaactt gtgaaatcaa agtagcgagt ttcgccaagt
+     2341 gcgttataac ttgtaggttc acccctttca tttatatgtg gacctactga ggcaatgttc
+     2401 gtgaggacat tgcaaaactg aggtggaacc gcgatagaac gccctctaga gtatatgact
+     2461 ctggagggcg ttattttatt atagaaaggg agaattgtta tgactgatgt aaattaccaa
+     2521 agacctaaaa ggaacctgta gatattttac ctggagaaat cgaagtatgg caaaaggttg
+     2581 aaaaaattgc acgtgatacc
+//

@@ -1,0 +1,51 @@
+LOCUS       LN877764                 390 bp    DNA     linear   BCT 01-SEP-2015
+DEFINITION  Lactobacillus parabuchneri partial hdcA gene for histidine
+            decarboxylase, strain IPLA11122.
+ACCESSION   LN877764
+VERSION     LN877764.1
+KEYWORDS    .
+SOURCE      Lentilactobacillus parabuchneri
+  ORGANISM  Lentilactobacillus parabuchneri
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lentilactobacillus.
+REFERENCE   1
+  AUTHORS   Diaz,M., Del Rio,B., Ladero,V., Redruello,B., Fernandez,M.,
+            Martin,M.C. and Alvarez,M.A.
+  TITLE     Histamine-producing Lactobacillus parabuchneri strains isolated from
+            grated cheese are able to form biofilms on stainless steel
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 390)
+  AUTHORS   Diaz,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JUL-2015) Molecular Microbiology, Instituto de
+            Productos Lacteos de Asturias, Paseo Rio Linares s/n, Villaviciosa
+            33300, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..390
+                     /organism="Lentilactobacillus parabuchneri"
+                     /mol_type="genomic DNA"
+                     /strain="IPLA11122"
+                     /isolation_source="Emmental-type cheese"
+                     /db_xref="taxon:152331"
+     gene            <1..>390
+                     /gene="hdcA"
+     CDS             <1..>390
+                     /gene="hdcA"
+                     /function="catalyzes the conversion of histidine into
+                     histamine"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="CUA78689.1"
+                     /translation="KNAYIGQINMTTASSFSGVGGTVLGYDILRNPEVDKAKPLFTEKQ
+                     WDGSELPIYDAKPLQDTLVEYFGTKDDMRHYPAPGAFVCCANKGVTAERPKNDEDMKPG
+                     QGYGVWSAIAISFAKDPTKYSSMYVE"
+ORIGIN
+        1 aaaaatgcct atattggaca aattaacatg actaccgcat caagtttctc tggtgtagga
+       61 ggaacagttc ttggatatga cattcttcgt aacccagaag ttgataaggc taagccttta
+      121 tttactgaaa agcaatggga cggtagcgag ttaccaattt acgacgcaaa gcctctgcaa
+      181 gatacattgg ttgaatactt tggtaccaaa gacgatatgc gtcattatcc agctcctggt
+      241 gcttttgtat gctgtgctaa caaaggtgtc actgcagaac gtccaaagaa tgatgaagac
+      301 atgaagccag gccaaggcta tggtgtatgg tctgctattg caatttcatt tgctaaggat
+      361 ccaactaagt attcaagtat gtacgttgaa
+//

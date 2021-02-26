@@ -1,0 +1,38 @@
+LOCUS       LOU09485                 113 bp    DNA     linear   BCT 15-NOV-1995
+DEFINITION  Leuconostoc oenos 9204 histidine decarboxylase gene, partial cds.
+ACCESSION   U09485
+VERSION     U09485.1
+KEYWORDS    .
+SOURCE      Oenococcus oeni
+  ORGANISM  Oenococcus oeni
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Oenococcus.
+REFERENCE   1  (bases 1 to 113)
+  AUTHORS   Le Jeune,C., Lonvaud-Funel,A., ten Brink,B., Hofstra,H. and van der
+            Vossen,J.M.
+  TITLE     Development of a detection system for histidine decarboxylating
+            lactic acid bacteria based on DNA probes, PCR and activity test
+  JOURNAL   J. Appl. Bacteriol. 78 (3), 316-326 (1995)
+   PUBMED   7730207
+REFERENCE   2  (bases 1 to 113)
+  AUTHORS   Le Jeune,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-1994) Christine Le Jeune, Institut d'Oenologie,
+            Universite de Bordeaux 2, 351 Cours de la Liberation, Bordeaux,
+            33405, France
+FEATURES             Location/Qualifiers
+     source          1..113
+                     /organism="Oenococcus oeni"
+                     /mol_type="genomic DNA"
+                     /strain="9204"
+                     /db_xref="taxon:1247"
+     CDS             <1..>113
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="AAA81361.1"
+                     /translation="VDAGVIDKTDDMILDGIVSYDRAETKNAYIGQINMTTA"
+ORIGIN
+        1 gtagatgctg gtgtcattga taaaaccgat gatatgatcc ttgatggtat tgtttcgtat
+       61 gaccgtgcgg aaacaaagaa tgcctatatt ggacaaataa atatgacaac agc
+//

@@ -1,0 +1,36 @@
+LOCUS       AY550914                 382 bp    DNA     linear   BCT 26-JUL-2016
+DEFINITION  Lactobacillus buchneri histidine decarboxylase gene, partial cds.
+ACCESSION   AY550914
+VERSION     AY550914.1
+KEYWORDS    .
+SOURCE      Lentilactobacillus buchneri
+  ORGANISM  Lentilactobacillus buchneri
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lentilactobacillus.
+REFERENCE   1  (bases 1 to 382)
+  AUTHORS   Flekna,G., Steinborn,R., Schneider,A. and Bauer,F.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-FEB-2004) Institute of Meat Hygiene, University of
+            Veterinary Medicine, Veterinaerplatz 1, Vienna 1210, Austria
+FEATURES             Location/Qualifiers
+     source          1..382
+                     /organism="Lentilactobacillus buchneri"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1581"
+     CDS             <1..>382
+                     /codon_start=2
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="AAT28193.1"
+                     /translation="VDAGVVDKTDDMILDGIVSYDRAETKNAYIGQINMTTASSFSGVG
+                     GTVLGYDILRNPEVDKAKPLFTEKQWDGSELPIYDAKPLQDTLVEYFGTKDDMRHYPAP
+                     GAFVCCANKGVTAERPKNDEDMK"
+ORIGIN
+        1 agtcgatgca ggtgttgttg ataaaactga tgatatgatc cttgatggta ttgtttcgta
+       61 tgaccgtgcg gaaactaaaa atgcctatat tggacaaatt aacatgacta ccgcatcaag
+      121 tttctctggt gtaggaggaa cagttcttgg atatgacatt cttcgtaacc cagaagttga
+      181 taaggctaag cctttattta ctgaaaagca atgggacggt agcgagttac caatttacga
+      241 cgcaaagcct ctgcaagata cattggttga atactttggt accaaagacg atatgcgtca
+      301 ttatccagct cctggtgctt ttgtatgctg tgctaacaaa ggtgtcactg cagaacgtcc
+      361 aaagaatgat gaagacatga ag
+//

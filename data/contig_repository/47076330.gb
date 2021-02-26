@@ -1,0 +1,58 @@
+LOCUS       AB125629                 951 bp    DNA     linear   BCT 07-MAY-2004
+DEFINITION  Tetragenococcus muriaticus hdcA gene for histidine decarboxylase,
+            complete cds.
+ACCESSION   AB125629
+VERSION     AB125629.1
+KEYWORDS    .
+SOURCE      Tetragenococcus muriaticus
+  ORGANISM  Tetragenococcus muriaticus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Tetragenococcus.
+REFERENCE   1
+  AUTHORS   Konagaya,Y., Kimura,B., Tomiuka,T., Hokimoto,S. and Fujii,T.
+  TITLE     histidine decarboxylase gene from Tetragenococcus muriaticus
+  JOURNAL   Published Only in Database (2004)
+REFERENCE   2  (bases 1 to 951)
+  AUTHORS   Kimura,B., Konagaya,Y., Tomiuka,T., Hokimoto,S. and Fujii,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-NOV-2003) Bon Kimura, Tokyo University of Marine
+            Science and Technology, Faculty of Marine Science; 4-5-7, Konan,
+            Minato-ku, Tokyo 108-8477, Japan (E-mail:kimubo@s.kaiyodai.ac.jp,
+            Tel:81-3-5463-0603, Fax:81-3-5463-0603)
+FEATURES             Location/Qualifiers
+     source          1..951
+                     /organism="Tetragenococcus muriaticus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:64642"
+     gene            1..951
+                     /gene="hdcA"
+     CDS             1..951
+                     /gene="hdcA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="histidine decarboxylase"
+                     /protein_id="BAD18069.1"
+                     /translation="MSEFDKKLNTLGVDRISVSPYKKWSRGYLEPGNVGNGYVSGLKVD
+                     AGVVDKTDDMILDGIVSYDRAETKNAYIGQINMTTASSFSGVGGTVLGYDILRNPEVDK
+                     AKPLFTEKQWDGSELPIYDAKPLQDNLVEYFGTKDDMRHYPAPGAFVCCANKGVTAERP
+                     KNDADMKPGQGYGVWSAIAISFAKDPTKYASMYVEDAGVWETPNEDELIEYLKGRRNAM
+                     AKSIAACGEHTAGENGGAVFTSSWIGFAHAMMKPGQVGNAITVAPYIAMPVDSIPGGSI
+                     LTPDTDMDIMQNLTMPEWLDKMGYQSLTKGGNINY"
+ORIGIN
+        1 atgtcagagt ttgataaaaa gttgaacaca cttggggttg accgtatctc agtgagtcca
+       61 tacaagaaat ggtctagagg gtatcttgaa ccaggaaacg ttggtaatgg atatgtttca
+      121 ggacttaaag tagatgctgg tgtcgttgat aaaaccgatg atatgatcct tgatggtatt
+      181 gtttcgtatg accgtgcgga aacaaagaat gcctatattg gacaaatcaa catgactact
+      241 gcatcaagtt tctctggtgt tggtggaact gttcttggtt atgacatcct tcgtaaccct
+      301 gaagttgaca aagctaagcc attatttact gaaaaacaat gggacggtag tgaacttcca
+      361 atttacgatg caaagccttt acaagataat ttagttgaat actttggtac taaagacgat
+      421 atgcgtcact atcctgctcc aggtgcattt gtatgctgtg ccaacaaagg tgtaactgca
+      481 gaacgtccaa agaacgatgc agatatgaag cctggtcaag gatatggtgt ttggtcagca
+      541 atcgcaattt catttgcaaa ggatccaact aagtacgcaa gtatgtacgt tgaagatgct
+      601 ggtgtttggg agactcctaa cgaagatgaa ttgattgaat atcttaaggg ccgtcgtaat
+      661 gcaatggcta agtcaattgc agcctgtggc gaacacactg ccggcgaaaa tggtggtgcc
+      721 gtattcacaa gctcatggat tggatttgca catgcaatga tgaagccagg acaagttggt
+      781 aatgcaatta ctgttgctcc ttatattgca atgcctgttg attcaattcc aggtggctca
+      841 attcttacac ctgatactga catggatatt atgcagaatc ttactatgcc agaatggctt
+      901 gacaagatgg gttaccaatc attaactaag ggtggaaaca tcaattatta a
+//

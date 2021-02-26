@@ -1,0 +1,513 @@
+Bacilli[Orgn] AND histidine decarboxylase[Protein Name]
+****************************************************************************************************
+DOWNLOAD DECARBOXYLASE AA SEQUENCES for all_bacilli_histidine_decarboxylases...
+38 genes found..
+Going to download record 1 to 38
+____________________________________________________________________________________________________
+
+38 DECARBOXYLASES DOWNLOADED!
+
+CREATE MAPPING TABLE...
+38 IDs to go...
+GEK41371.1	1714316936
+37 IDs to go...
+WP_176008086.1	1861168361
+36 IDs to go...
+QKS70042.1	1858370931
+35 IDs to go...
+WP_134756855.1	1604982845
+34 IDs to go...
+REK60872.1	1447434696
+33 IDs to go...
+WP_105957618.1	1360596890
+32 IDs to go...
+PRO67234.1	1357755585
+31 IDs to go...
+SJZ72010.1	1152069124
+30 IDs to go...
+BAG26233.1	183223999
+29 IDs to go...
+AAX19892.1	60418969
+28 IDs to go...
+AAT28193.1	47498596
+27 IDs to go...
+AAC38298.1	2970111
+26 IDs to go...
+ACO35351.1	225904411
+25 IDs to go...
+ACO35350.1	225904409
+24 IDs to go...
+KTW17994.1	968534636
+23 IDs to go...
+KRM45968.1	948826740
+22 IDs to go...
+CUA78690.1	924442430
+21 IDs to go...
+CUA78689.1	924442428
+20 IDs to go...
+KGH79590.1	692714774
+19 IDs to go...
+EWM56690.1	757949966
+18 IDs to go...
+ETE42973.1	576010967
+17 IDs to go...
+EQC57919.1	530795340
+16 IDs to go...
+AAB59151.1	149550
+15 IDs to go...
+AAX19893.1	60418971
+14 IDs to go...
+AAA81361.1	488594
+13 IDs to go...
+BAG55999.1	324120499
+12 IDs to go...
+CBK46769.1	306517904
+11 IDs to go...
+CBK46766.1	306517899
+10 IDs to go...
+BAJ05382.1	294661747
+9 IDs to go...
+BAJ05381.1	294661745
+8 IDs to go...
+CAK55535.1	161338456
+7 IDs to go...
+CAH41007.1	75754130
+6 IDs to go...
+CAG44458.1	62550768
+5 IDs to go...
+BAD81028.1	56744164
+4 IDs to go...
+BAD81027.1	56744164
+3 IDs to go...
+BAD51813.1	52693638
+2 IDs to go...
+BAD51812.1	52693638
+1 IDs to go...
+BAD18069.1	47076330
+____________________________________________________________________________________________________
+
+DOWNLOAD ASSEMBLIES...
+38
+37 files to download
+36 files to download
+35 files to download
+34 files to download
+33 files to download
+32 files to download
+31 files to download
+30 files to download
+29 files to download
+28 files to download
+27 files to download
+26 files to download
+25 files to download
+24 files to download
+23 files to download
+22 files to download
+21 files to download
+20 files to download
+19 files to download
+18 files to download
+17 files to download
+16 files to download
+15 files to download
+14 files to download
+13 files to download
+12 files to download
+11 files to download
+10 files to download
+9 files to download
+8 files to download
+7 files to download
+6 files to download
+5 files to download
+4 files to download
+file for 56744164 already exists
+2 files to download
+file for 52693638 already exists
+0 files to download
+____________________________________________________________________________________________________
+
+SEARCH FOR NEIGHBOURING TRANSPORTERS...
+38 queries to go...
+37 queries to go...
+36 queries to go...
+35 queries to go...
+34 queries to go...
+33 queries to go...
+32 queries to go...
+31 queries to go...
+30 queries to go...
+29 queries to go...
+28 queries to go...
+27 queries to go...
+26 queries to go...
+25 queries to go...
+24 queries to go...
+23 queries to go...
+22 queries to go...
+21 queries to go...
+20 queries to go...
+19 queries to go...
+18 queries to go...
+17 queries to go...
+16 queries to go...
+15 queries to go...
+14 queries to go...
+13 queries to go...
+12 queries to go...
+11 queries to go...
+10 queries to go...
+9 queries to go...
+8 queries to go...
+7 queries to go...
+6 queries to go...
+5 queries to go...
+4 queries to go...
+3 queries to go...
+2 queries to go...
+1 queries to go...
+____________________________________________________________________________________________________
+
+FILTERING DECARBOXYLASES...
+Median length of all sequences is: 311.0
+length cutoff was set to 261.0
+QKS70042.1 has been removed by WP_176008086.1 with score: 1.0
+PRO67234.1 has been removed by WP_105957618.1 with score: 1.0
+BAD51812.1 has been removed by AAX19892.1 with score: 1.0
+BAD18069.1 has been removed by AAX19892.1 with score: 1.0
+AAT28193.1 has been removed with length: 127
+CAH41007.1 has been removed by AAC38298.1 with score: 1.0
+ACO35351.1 has been removed with length: 131
+ACO35350.1 has been removed with length: 132
+CUA78690.1 has been removed with length: 130
+CUA78689.1 has been removed with length: 130
+KGH79590.1 has been removed with length: 197
+ETE42973.1 has been removed by EWM56690.1 with score: 0.9945421467556095
+CBK46766.1 has been removed by EWM56690.1 with score: 0.9975742874469375
+AAA81361.1 has been removed with length: 38
+BAJ05382.1 has been removed with length: 146
+BAJ05381.1 has been removed with length: 146
+BAD81028.1 has been removed with length: 174
+BAD51813.1 has been removed with length: 174
+19 of 38 sequences have been removed
+____________________________________________________________________________________________________
+
+GENERATE NICE FASTA HEADER FOR DECARBOXYLASES...
+10 transporters found
+____________________________________________________________________________________________________
+
+CONVERT DECARBOXYLASE AA SEQUENCES INTO NUCLEOTIDES...
+GEK41371.1 in BJUI01000001.1 found
+CDS OK for GEK41371.1
+
+Could not find protein accession WP_176008086.1 in assembly NZ_CP041372.2
+Downloading all FASTA sequences of NZ_CP041372.2
+CDS OK for WP_176008086.1
+
+WP_134756855.1 in NZ_MYFO01000043.1 found
+no sequence found in NZ_MYFO01000043.1
+downloading FASTA sequence
+CDS OK for WP_134756855.1
+
+REK60872.1 in QEWF01000045.1 found
+CDS OK for REK60872.1
+
+WP_105957618.1 in NZ_PVNS01000001.1 found
+no sequence found in NZ_PVNS01000001.1
+downloading FASTA sequence
+CDS OK for WP_105957618.1
+
+SJZ72010.1 in FUXS01000001.1 found
+CDS OK for SJZ72010.1
+
+BAG26233.1 in AP007281.1 found
+CDS OK for BAG26233.1
+
+AAX19892.1 in AY800121.1 found
+CDS OK for AAX19892.1
+
+AAC38298.1 in U58865.1 found
+CDS OK for AAC38298.1
+
+KTW17994.1 in LDTT01000025.1 found
+CDS OK for KTW17994.1
+
+KRM45968.1 in AZGK01000012.1 found
+CDS OK for KRM45968.1
+
+EQC57919.1 in AVAB01000110.1 found
+CDS OK for EQC57919.1
+
+AAB59151.1 in J02613.1 found
+CDS OK for AAB59151.1
+
+AAX19893.1 in AY800122.1 found
+CDS OK for AAX19893.1
+
+BAG55999.1 in AB583189.1 found
+CDS OK for BAG55999.1
+
+CBK46769.1 in FN686790.1 found
+CDS OK for CBK46769.1
+
+CAK55535.1 in AM283479.1 found
+CDS OK for CAK55535.1
+
+CAG44458.1 in AJ749838.1 found
+CDS OK for CAG44458.1
+
+BAD81027.1 in AB076394.1 found
+CDS OK for BAD81027.1
+
+____________________________________________________________________________________________________
+
+ALIGN DECARBOXYLASE SEQUENCES..
+____________________________________________________________________________________________________
+
+CONVERT INTO .PHYLIP ...
+
+finished
+____________________________________________________________________________________________________
+
+CALCULATE DECARBOXYLASE TREE...
+
+
+
+. Running the analysis on 1 CPU..
+
+. Command line: phyml-mpi -d aa -m Blosum62 -b -4 -v 0.0 -c 4 -a e -f m --no_memory_check -i data/all_bacilli_histidine_decarboxylases/decarboxylases/aa_sequences/aligned_taxa_filtered_all_bacilli_histidine_decarboxylases.phylip 
+
+
+
+
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+        . Sequence filename:				 aligned_taxa_filtered_all_bacilli_histidine_decarboxylases.phylip
+        . Data type:					 aa
+        . Alphabet size:				 20
+        . Sequence format:				 interleaved
+        . Number of data sets:				 1
+        . Nb of bootstrapped data sets:			 0
+        . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+        . Model name:					 Blosum62
+        . Proportion of invariable sites:		 0.000000
+        . Number of subst. rate catgs:			 4
+        . Gamma distribution parameter:			 estimated
+        . 'Middle' of each rate class:			 mean
+        . Amino acid equilibrium frequencies:		 model
+        . Optimise tree topology:			 yes
+        . Starting tree:				 BioNJ
+        . Add random input tree:			 no
+        . Optimise branch lengths:			 yes
+        . Minimum length of an edge:			 1e-08
+        . Optimise substitution model parameters:	 yes
+        . Run ID:					 none
+        . Random seed:					 1614335301
+        . Subtree patterns aliasing:			 no
+        . Version:					 3.3.3:3.3.20190909-1
+        . Byte alignment:				 1
+        . AVX enabled:					 no
+        . SSE enabled:					 no
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+
+
+. 586 patterns found (out of a total of 677 sites). 
+
+. 162 sites without polymorphism (23.93%).
+
+
+. Computing pairwise distances...
+
+. Building BioNJ tree...
+
+. Note: taxon 'BAG55999.1_Staphylococcus_epidermidis_HDC_BAG56000.1_us+1_score=0.64' is a duplicate of taxon 'KTW17994.1_Staphylococcus_warneri_HDC_KTW17995.1_us+1_score=0.64'.
+
+. This analysis requires at least 24 MB of memory space.
+
+
+. Score of initial tree: -7584.94
+
+. Starting first round of SPRs...
+
+	       4s |   1 | lnL=     -7494.5 | depth=    1/   40 | improvements=   9 | delta_lnL=    0.0/ 1000.0   +
+
+. Second round of optimization...
+
+	       7s |   2 | lnL=     -7487.8 | depth=    3/   36 | improvements=   8 | delta_lnL=    0.5/ 1000.0   +
+	      10s |   3 | lnL=     -7492.7 | depth=    1/   20 | improvements=  10 | delta_lnL=    0.0/ 1000.0  
+	      12s |   4 | lnL=     -7518.0 | depth=    1/   16 | improvements=  14 | delta_lnL=    0.0/ 1000.0  
+	      15s |   5 | lnL=     -7522.0 | depth=    4/   12 | improvements=  11 | delta_lnL=   22.0/ 1000.0  
+	      16s |   6 | lnL=     -7487.9 | depth=    1/    9 | improvements=   9 | delta_lnL=    0.0/   20.0  
+	      17s |   7 | lnL=     -7491.3 | depth=    2/    7 | improvements=  10 | delta_lnL=   31.1/   20.0  
+	      18s |   8 | lnL=     -7518.6 | depth=    2/    6 | improvements=  15 | delta_lnL=   21.2/   20.0  
+	      19s |   9 | lnL=     -7494.9 | depth=    1/    6 | improvements=   9 | delta_lnL=    0.0/   20.0  
+	      20s |  10 | lnL=     -7487.3 | depth=    5/    5 | improvements=   4 | delta_lnL=    3.8/   62.2   +
+
+. Third round of optimization...
+
+	      26s |  11 | lnL=     -7482.4 | depth=    1/   10 | improvements=   5 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+	      30s |  12 | lnL=     -7480.1 | depth=    2/    8 | improvements=   1 | delta_lnL=    2.9/  100.0 | triple moves=   5   +
+	      38s |  13 | lnL=     -7480.1 | depth=    0/    6 | improvements=   0 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+
+. Final optimisation steps...
+
+
+. Log likelihood of the current tree: -7480.093443693745939526707.
+
+. Calculating fast branch supports (using 'SH').
+
+. Printing the most likely tree in file 'aligned_taxa_filtered_all_bacilli_histidine_decarboxylases.phylip_phyml_tree.txt'.
+
+. Time used 0h1m8s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+____________________________________________________________________________________________________
+
+11 hdcP TRANSPORTERS FOUND!
+FILTERING TRANSPORTERS...
+Median length of all sequences is: 488
+CBK46767.1 has been removed by CBK46770.1 with score: 0.9935665460394049
+1 of 11 sequences have been removed
+____________________________________________________________________________________________________
+
+GENERATE NICE FASTA HEADER FOR TRANSPORTERS...
+10 transporters found
+____________________________________________________________________________________________________
+
+CONVERT TRANSPORTER AA SEQUENCES INTO NUCLEOTIDES..
+GEK41370.1 in BJUI01000001.1 found
+CDS OK for GEK41370.1
+
+SJZ71976.1 in FUXS01000001.1 found
+CDS OK for SJZ71976.1
+
+BAG26234.1 in AP007281.1 found
+CDS OK for BAG26234.1
+
+KTW17995.1 in LDTT01000025.1 found
+CDS OK for KTW17995.1
+
+KRM45969.1 in AZGK01000012.1 found
+CDS OK for KRM45969.1
+
+EQC57918.1 in AVAB01000110.1 found
+CDS OK for EQC57918.1
+
+BAG56000.1 in AB583189.1 found
+CDS OK for BAG56000.1
+
+CBK46770.1 in FN686790.1 found
+CDS OK for CBK46770.1
+
+CAK55536.1 in AM283479.1 found
+CDS OK for CAK55536.1
+
+CAG44457.1 in AJ749838.1 found
+CDS OK for CAG44457.1
+
+____________________________________________________________________________________________________
+
+ALIGN TRANSPORTER SEQUENCES..
+____________________________________________________________________________________________________
+
+CONVERT INTO .PHYLIP ...
+
+finished
+____________________________________________________________________________________________________
+
+CALCULATE TRANSPORTER TREE...
+
+
+. Running the analysis on 1 CPU..
+
+. Command line: phyml-mpi -d aa -m Blosum62 -b -4 -v 0.0 -c 4 -a e -f m --no_memory_check -i data/all_bacilli_histidine_decarboxylases/transporters/aa_sequences/aligned_taxa_filtered_neighbouring_transporters.phylip 
+
+
+
+
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+        . Sequence filename:				 aligned_taxa_filtered_neighbouring_transporters.phylip
+        . Data type:					 aa
+        . Alphabet size:				 20
+        . Sequence format:				 interleaved
+        . Number of data sets:				 1
+        . Nb of bootstrapped data sets:			 0
+        . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+        . Model name:					 Blosum62
+        . Proportion of invariable sites:		 0.000000
+        . Number of subst. rate catgs:			 4
+        . Gamma distribution parameter:			 estimated
+        . 'Middle' of each rate class:			 mean
+        . Amino acid equilibrium frequencies:		 model
+        . Optimise tree topology:			 yes
+        . Starting tree:				 BioNJ
+        . Add random input tree:			 no
+        . Optimise branch lengths:			 yes
+        . Minimum length of an edge:			 1e-08
+        . Optimise substitution model parameters:	 yes
+        . Run ID:					 none
+        . Random seed:					 1614335422
+        . Subtree patterns aliasing:			 no
+        . Version:					 3.3.3:3.3.20190909-1
+        . Byte alignment:				 1
+        . AVX enabled:					 no
+        . SSE enabled:					 no
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+
+
+. 366 patterns found (out of a total of 502 sites). 
+
+. 148 sites without polymorphism (29.48%).
+
+
+. Computing pairwise distances...
+
+. Building BioNJ tree...
+
+. This analysis requires at least 8 MB of memory space.
+
+
+. Score of initial tree: -5390.67
+
+. Starting first round of SPRs...
+
+	       1s |   1 | lnL=     -5363.1 | depth=    1/   40 | improvements=   2 | delta_lnL=    0.0/ 1000.0  
+
+. Second round of optimization...
+
+	       2s |   2 | lnL=     -5361.6 | depth=    1/   36 | improvements=   7 | delta_lnL=    0.0/ 1000.0  
+	       2s |   3 | lnL=     -5379.6 | depth=    1/   20 | improvements=   2 | delta_lnL=    0.0/ 1000.0  
+
+. Third round of optimization...
+
+	       4s |   4 | lnL=     -5360.6 | depth=    1/   16 | improvements=   4 | delta_lnL=    0.0/ 1000.0 | triple moves=   5  
+	       6s |   5 | lnL=     -5360.2 | depth=    0/   12 | improvements=   0 | delta_lnL=    0.0/  100.0 | triple moves=   5  
+
+. Final optimisation steps...
+
+
+. Log likelihood of the current tree: -5360.148368356304672488477.
+
+. Calculating fast branch supports (using 'SH').
+
+. Printing the most likely tree in file 'aligned_taxa_filtered_neighbouring_transporters.phylip_phyml_tree.txt'.
+
+. Time used 0h0m14s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+____________________________________________________________________________________________________
+
+****************************************************************************************************
+
